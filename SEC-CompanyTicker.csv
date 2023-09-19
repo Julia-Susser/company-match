@@ -5,6 +5,7 @@
 3,1018724,AMZN,Amazon Com Inc
 4,1045810,NVDA,Nvidia Corp
 5,1318605,TSLA,"Tesla, Inc."
+6,1067983,BRK-B,Berkshire Hathaway Inc
 7,1326801,META,"Meta Platforms, Inc."
 8,59478,LLY,Eli Lilly & Co
 9,1403161,V,Visa Inc.
@@ -235,6 +236,7 @@
 234,1035002,VLO,Valero Energy Corp/Tx
 235,37996,F,Ford Motor Co
 236,1549802,JD,"Jd.Com, Inc."
+237,30554,CTA-PA,"Eidp, Inc."
 238,76334,PH,Parker Hannifin Corp
 239,1395064,TAK,Takeda Pharmaceutical Co Ltd
 240,1262039,FTNT,"Fortinet, Inc."
@@ -387,6 +389,7 @@
 387,815556,FAST,Fastenal Co
 388,1038143,ORAN,Orange
 389,1164727,NEM,Newmont Corp /De/
+390,14693,BF-B,Brown Forman Corp
 391,1012037,CODYY,Compagnie De Saint Gobain
 392,1725964,NTR,Nutrien Ltd.
 393,889132,PKX,Posco Holdings Inc.
@@ -982,6 +985,7 @@
 983,1895262,NE,Noble Corp Plc
 984,1378992,BERY,"Berry Global Group, Inc."
 985,1528396,GWRE,"Guidewire Software, Inc."
+986,201533,CMS-PB,Consumers Energy Co
 987,19584,CHE,Chemed Corp
 988,355811,GNTX,Gentex Corp
 989,1302215,HLI,"Houlihan Lokey, Inc."
@@ -1497,6 +1501,7 @@
 1499,1273813,AGO,Assured Guaranty Ltd
 1500,1628171,RVMD,"Revolution Medicines, Inc."
 1501,1835681,PWSC,"Powerschool Holdings, Inc."
+1502,67887,MOG-A,Moog Inc.
 1503,933136,COOP,Mr. Cooper Group Inc.
 1504,42582,GT,Goodyear Tire & Rubber Co /Oh/
 1505,1834048,ASAI,Sendas Distributor S.A.
@@ -1516,6 +1521,7 @@
 1519,1433660,JBT,John Bean Technologies Corp
 1520,1157601,MDGL,"Madrigal Pharmaceuticals, Inc."
 1521,1376139,CVI,Cvr Energy Inc
+1522,1564538,GRP-UN,Granite Real Estate Investment Trust
 1523,1632127,CABO,"Cable One, Inc."
 1524,1611647,FRPT,"Freshpet, Inc."
 1525,871459,DFIHY,Dairy Farm International Holdings Ltd /Fi
@@ -1957,6 +1963,7 @@
 1961,1845097,AMBP,Ardagh Metal Packaging S.A.
 1962,55242,KMT,Kennametal Inc
 1963,1350593,MWA,"Mueller Water Products, Inc."
+1964,925261,AKO-A,Andina Bottling Co Inc
 1965,1745999,BEAM,Beam Therapeutics Inc.
 1966,1078075,NTCT,Netscout Systems Inc
 1967,1842718,IAS,Integral Ad Science Holding Corp.
@@ -2031,6 +2038,7 @@
 2036,1627475,UPWK,"Upwork, Inc"
 2037,1288469,MXL,"Maxlinear, Inc"
 2038,1840572,BOWL,Bowlero Corp.
+2039,929351,LGF-A,Lions Gate Entertainment Corp /Cn/
 2040,1601830,RXRX,"Recursion Pharmaceuticals, Inc."
 2041,1077183,NEO,Neogenomics Inc
 2042,1837429,BNRE,Brookfield Reinsurance Ltd.
@@ -2169,6 +2177,7 @@
 2175,1354327,PGTI,"Pgt Innovations, Inc."
 2176,1564618,IBTX,"Independent Bank Group, Inc."
 2177,1771007,AFYA,Afya Ltd
+2178,1267395,AHL-PC,Aspen Insurance Holdings Ltd
 2179,1001316,TGTX,"Tg Therapeutics, Inc."
 2180,1743759,CRSR,"Corsair Gaming, Inc."
 2181,1839839,JBI,"Janus International Group, Inc."
@@ -3096,6 +3105,7 @@
 3103,1776738,CCHWF,Columbia Care Inc.
 3104,1866501,WBX,Wallbox N.V.
 3105,1840439,BMEA,"Biomea Fusion, Inc."
+3106,1726173,BH-A,Biglari Holdings Inc.
 3107,1468666,SCWX,Secureworks Corp
 3108,798949,UNTC,Unit Corp
 3109,1557746,ACRS,"Aclaris Therapeutics, Inc."
@@ -3231,6 +3241,7 @@
 3239,928340,CWCO,Consolidated Water Co. Ltd.
 3240,1176194,BLE,Blackrock Municipal Income Trust Ii
 3241,1668243,URGN,Urogen Pharma Ltd.
+3242,25475,CRD-A,Crawford & Co
 3243,1787306,ARQT,"Arcutis Biotherapeutics, Inc."
 3244,798287,PTSI,Pam Transportation Services Inc
 3245,706129,HBNC,Horizon Bancorp Inc /In/
@@ -7763,6 +7774,7 @@
 7772,1987930,JZL,Jizhilong Holding Group Ltd
 7773,1990204,HXSZ,Hongxu Shangzeng Global Holding Ltd
 7774,1954694,LGCL,Lucas Gc Ltd
+7775,1690012,ICR-PA,"Inpoint Commercial Real Estate Income, Inc."
 7776,1104023,GEMZ,Gemxx Corp.
 7777,1989397,KSD,"Capstone Dental Pubco, Inc."
 7778,1356284,GJS,"Strats(Sm) Trust For Goldman Sachs Group Securities, Series 2006-2"
@@ -7838,6 +7850,7 @@
 7848,1963088,ATCH,"Calculator New Pubco, Inc."
 7849,1932470,AGII,Agiiplus Inc.
 7850,1937987,FBYD,"Falcon'S Beyond Global, Inc."
+7851,1427437,ETI-P,"Entergy Texas, Inc."
 7852,1717976,WEIB,Weiss Strategic Interval Fund
 7853,1833498,MDAI,"Spectral Ai, Inc."
 7854,1927578,NTCL,Netclass Technology Inc
@@ -7867,6 +7880,7 @@
 7878,1608016,PSOIX,Palmer Square Opportunistic Income Fund
 7879,1552164,NREG,"Springs Rejuvenation, Inc."
 7880,1610718,ODRS,"Outdoor Specialty Products, Inc."
+7881,1403528,OAK-PA,"Oaktree Capital Group, Llc"
 7882,1843573,UMAV,Uav Corp
 7883,1687898,VCRRX,Versus Capital Real Assets Fund Llc
 7884,1674356,TPTA,"Terra Property Trust, Inc."
@@ -7935,63 +7949,653 @@
 7947,1967680,VLTO,Veralto Corp
 7948,1868110,HGIA,"Hengguang Holding Co, Ltd"
 7949,1905920,GLXG,Galaxy Payroll Group Ltd
+7950,14272,BMYMP,Bristol Myers Squibb Co
+7951,1652044,GOOG,Alphabet Inc.
+7952,36104,USB-PA,Us Bancorp De
+7953,1067983,BRK-A,Berkshire Hathaway Inc
+7954,824046,LVMHF,Lvmh Moet Hennessy Louis Vuitton
+7955,19617,JPM-PC,Jpmorgan Chase & Co
+7956,19617,JPM-PD,Jpmorgan Chase & Co
+7957,70858,BML-PH,Bank Of America Corp /De/
+7958,70858,BML-PG,Bank Of America Corp /De/
+7959,70858,BML-PL,Bank Of America Corp /De/
+7960,70858,BAC-PB,Bank Of America Corp /De/
+7961,70858,BAC-PK,Bank Of America Corp /De/
+7962,70858,BML-PJ,Bank Of America Corp /De/
+7963,70858,BAC-PE,Bank Of America Corp /De/
+7964,937966,ASMLF,Asml Holding Nv
+7965,1577552,BABAF,Alibaba Group Holding Ltd
+7966,353278,NONOF,Novo Nordisk A S
+7967,1114448,NVSEF,Novartis Ag
+7968,901832,AZNCF,Astrazeneca Plc
+7969,1306965,RYDAF,Shell Plc
+7970,72971,WFC-PQ,Wells Fargo & Company/Mn
+7971,1094517,TOYOF,Toyota Motor Corp/
+7972,72971,WFC-PY,Wells Fargo & Company/Mn
 7973,1108329,PCCYF,Petrochina Co Ltd
+7974,72971,WFC-PR,Wells Fargo & Company/Mn
+7975,72971,WFC-PL,Wells Fargo & Company/Mn
+7976,1000184,SAPGF,Sap Se
+7977,879764,TTFNF,Totalenergies Se
+7978,1089113,HBCYF,Hsbc Holdings Plc
+7979,732717,TBB,At&T Inc.
+7980,811809,BHPLF,Bhp Group Ltd
+7981,831001,C-PJ,Citigroup Inc
+7982,1121404,SNYNF,Sanofi
+7983,217410,UNLYF,Unilever Plc
+7984,1668717,BUDFF,Anheuser-Busch Inbev Sa/Nv
+7985,72971,WFC-PC,Wells Fargo & Company/Mn
+7986,313807,BPAQF,Bp Plc
 7987,1268896,CILJF,China Life Insurance Co Ltd
+7988,1378580,EADSF,Airbus Se/Adr
+7989,863064,RTPPF,Rio Tinto Plc
+7990,313838,SNEJF,Sony Group Corp
+7991,70866,NCRRP,Ncr Corp
 7992,769594,NTTYY,Nippon Telegraph & Telephone Corp
+7993,1000275,RY-PT,Royal Bank Of Canada
+7994,948401,CFRHF,Compagnie Financiere Richemont Ag /Fi
+7995,1140625,STOHF,Equinor Asa
+7996,835403,DGEAF,Diageo Plc
 7997,1123658,SNPMF,China Petroleum & Chemical Corp
+7998,1274152,CMXHF,Csl Ltd
+7999,67088,MBFJF,Mitsubishi Ufj Financial Group Inc
+8000,36104,USB-PH,Us Bancorp De
+8001,895728,EBBNF,Enbridge Inc
+8002,310732,BNPQF,Bnp Paribas
+8003,30554,CTA-PB,"Eidp, Inc."
+8004,36104,USB-PP,Us Bancorp De
+8005,1067318,MBGAF,Daimler Ag
+8006,886982,GS-PA,Goldman Sachs Group Inc
+8007,895421,MS-PA,Morgan Stanley
+8008,1131399,GLAXF,Gsk Plc
+8009,886982,GS-PD,Goldman Sachs Group Inc
+8010,1463157,PBCRF,Pt Bank Central Asia Tbk / Adr
+8011,1303523,BTAFF,British American Tobacco P.L.C.
+8012,1549802,JDCMF,"Jd.Com, Inc."
+8013,1129137,AMXOF,America Movil Sab De Cv/
+8014,1524684,GLCNF,Glencore Plc/Adr
+8015,1091587,ABLZF,Abb Ltd
+8016,886982,GS-PJ,Goldman Sachs Group Inc
+8017,895421,MS-PK,Morgan Stanley
+8018,1443276,TOELF,Tokyo Electron Ltd
+8019,1119639,PBR-A,Petrobras - Petroleo Brasileiro Sa
+8020,1096200,ESOCF,Enel Societa Per Azioni
+8021,895421,MS-PI,Morgan Stanley
+8022,895421,MS-PF,Morgan Stanley
+8023,886982,GS-PK,Goldman Sachs Group Inc
+8024,895421,MS-PE,Morgan Stanley
+8025,929869,RLXXF,Relx Plc
+8026,1326160,DUK-PA,Duke Energy Corp
+8027,748954,ATLCY,Atlas Copco Ab
+8028,891478,BCDRF,"Banco Santander, S.A."
+8029,899108,PDRDF,Pernod Ricard S A /Fi
+8030,1021020,OEZVF,Osterreichische Elektrizitatswirtschafts /Fi
+8031,1022837,SMFNF,"Sumitomo Mitsui Financial Group, Inc."
+8032,1166691,CCZ,Comcast Corp
+8033,748954,ATLPF,Atlas Copco Ab
+8034,1395064,TKPHF,Takeda Pharmaceutical Co Ltd
+8035,1329099,BAIDF,"Baidu, Inc."
 8036,719245,WEBNF,Westpac Banking Corp
+8037,316709,SCHW-PD,Schwab Charles Corp
 8038,75594,PPWLM,Pacificorp /Or/
+8039,1004315,NGGTF,National Grid Plc
+8040,718940,BECEF,Bce Inc
+8041,1063761,SPG-PJ,Simon Property Group Inc /De/
+8042,1232384,TNCAF,Tc Energy Corp
+8043,1039765,INGVF,Ing Groep Nv
+8044,1099219,MET-PA,Metlife Inc
+8045,932787,STMEF,Stmicroelectronics N.V.
+8046,1099219,MET-PE,Metlife Inc
+8047,715153,HNDAF,Honda Motor Co Ltd
+8048,1002242,EIPAF,Eni Spa
+8049,1160106,LLDTF,Lloyds Banking Group Plc
+8050,1045609,PLDGP,"Prologis, Inc."
+8051,844551,WOPEF,Woodside Energy Group Ltd
+8052,842180,BBVXF,"Banco Bilbao Vizcaya Argentaria, S.A."
+8053,1900304,HLNCF,Haleon Plc
+8054,1232384,TCANF,Tc Energy Corp
+8055,1393311,PSA-PH,Public Storage
+8056,75594,PPWLO,Pacificorp /Or/
+8057,5272,AIG-PA,"American International Group, Inc."
+8058,895564,BAESF,Bae Systems Plc /Fi/
+8059,1116578,PUKPF,Prudential Plc
+8060,1001085,BAMGF,Brookfield Corp /On/
+8061,948696,HCMLF,Lafargeholcim Ltd/Adr
+8062,849395,CRHCF,Crh Public Ltd Co
+8063,1335730,MZHOF,Mizuho Financial Group Inc
+8064,886986,TCKRF,Teck Resources Ltd
+8065,899051,ALL-PH,Allstate Corp
+8066,1393311,PSA-PK,Public Storage
+8067,1279967,CRARF,Credit Agricole S A
+8068,844150,RBSPF,Natwest Group Plc
+8069,899051,ALL-PB,Allstate Corp
+8070,943819,RSMDF,Resmed Inc
+8071,1038143,FNCTF,Orange
+8072,14693,BF-A,Brown Forman Corp
+8073,1376891,EXPGF,Experian Group Ltd
+8074,920760,LEN-B,Lennar Corp /New/
+8075,312069,BCLYF,Barclays Plc
+8076,1012037,CODGF,Compagnie De Saint Gobain
+8077,839923,VODPF,Vodafone Group Public Ltd Co
+8078,1160330,BBDO,Bank Bradesco
+8079,1434265,GNMSF,Genmab A/S
+8080,1297996,DLR-PK,"Digital Realty Trust, Inc."
+8081,733099,RCIAF,Rogers Communications Inc
+8082,814052,TEFOF,Telefonica S A
+8083,92122,SOJC,Southern Co
+8084,1334687,CJPRF,Central Japan Railway Co
+8085,1451279,SAUHF,Straumann Holding Ag / Adr
+8086,1243429,AMSYF,Arcelormittal
+8087,63754,MKC-V,Mccormick & Co Inc
 8088,1618755,RSTRF,Restaurant Brands International Limited Partnership
+8089,16988,CAJFF,Canon Inc
+8090,1297996,DLR-PJ,"Digital Realty Trust, Inc."
+8091,924613,NOKBF,Nokia Corp
+8092,1070304,ORXCF,Orix Corp
+8093,1269238,TRPCF,Trip.Com Group Ltd
+8094,63271,PCRFF,Panasonic Corp
+8095,46619,HEI-A,Heico Corp
+8096,93751,STT-PG,State Street Corp
+8097,798941,FCNCB,First Citizens Bancshares Inc /De/
+8098,1447629,LNNGF,Li Ning Co. Ltd.
+8099,717826,ERIXF,Ericsson Lm Telephone Co
 8100,1764757,DIDIY,Didi Global Inc.
+8101,1439124,EBR-B,Brazilian Electric Power Co
 8102,756620,BTGOF,Bt Group Plc
+8103,1736541,NIOIF,Nio Inc.
+8104,1560385,FWONB,Liberty Media Corp
+8105,874766,HIG-PG,"Hartford Financial Services Group, Inc."
+8106,93751,STT-PD,State Street Corp
+8107,35527,FITBI,Fifth Third Bancorp
+8108,930157,RKLIF,Rentokil Initial Plc /Fi
 8109,1712356,HRNNF,Hydro One Ltd
+8110,811250,HLDVF,Henderson Land Development Company Ltd /Fi
+8111,1069347,SGSOF,Sgs Societe Generale De Surveillance Holding Sa /Fi
 8112,899611,NCMGY,Newcrest Mining Ltd
+8113,899611,NCMGF,Newcrest Mining Ltd
+8114,1461748,PPERF,Pt Bank Mandiri (Persero) Tbk / Adr
+8115,1190723,TNRSF,Tenaris Sa
+8116,910631,COCSF,Coca Cola Femsa Sab De Cv
+8117,313216,RYLPF,Koninklijke Philips Nv
+8118,1748790,AMCCF,Amcor Plc
+8119,915191,FAXXF,Fairfax Financial Holdings Ltd/ Can
+8120,12208,BIO-B,"Bio-Rad Laboratories, Inc."
+8121,1560385,FWONA,Liberty Media Corp
+8122,1560385,FWONK,Liberty Media Corp
 8123,1030475,CHEAF,China Eastern Airlines Corp Ltd
 8124,929058,HUNGF,Huaneng Power International Inc
 8125,1041668,CHKIF,China Southern Airlines Co Ltd
+8126,1158838,ADTTF,Advantest Corp
+8127,1400691,HLBZF,Heidelbergcement Ag
+8128,91576,KEY-PK,Keycorp /New/
+8129,915191,FXFLF,Fairfax Financial Holdings Ltd/ Can
+8130,1004315,NMK-PC,National Grid Plc
+8131,1754301,FOX,Fox Corp
+8132,1001474,KKPNF,Koninklijke Kpn N V
+8133,1038683,RYAOF,Ryanair Holdings Plc
+8134,813828,PARAA,Paramount Global
+8135,759944,CFG-PD,Citizens Financial Group Inc/Ri
+8136,1172724,GFIOF,Gold Fields Ltd
+8137,915191,FRFGF,Fairfax Financial Holdings Ltd/ Can
+8138,1004315,NMK-PB,National Grid Plc
+8139,1281721,SGIOF,Shionogi & Co Ltd
+8140,1669414,NHOLF,"Sompo Japan Nipponkoa Holdings, Inc./Adr"
+8141,915191,FRFFF,Fairfax Financial Holdings Ltd/ Can
+8142,1445475,BOUYF,Bouygues Sa
+8143,1043219,NLY-PG,Annaly Capital Management Inc
+8144,1547873,PTPIF,Pt Chandra Asri Petrochemical Tbk/Adr
+8145,871464,HKHGF,Hongkong Land Holdings Ltd /Fi
+8146,1043219,NLY-PF,Annaly Capital Management Inc
+8147,1858681,APO-PA,"Apollo Global Management, Inc."
+8148,91576,KEY-PI,Keycorp /New/
+8149,927971,FNGD,Bank Of Montreal /Can/
+8150,1438077,JRONF,Jeronimo Martins Sgps Sa
+8151,806968,WPPGF,Wpp Plc
+8152,915191,FRFXF,Fairfax Financial Holdings Ltd/ Can
+8153,932477,LNVGF,Lenovo Group Ltd
+8154,1003935,NCSYF,Nice Ltd.
+8155,105016,WSO-B,Watsco Inc
+8156,1333141,FMCQF,Fresenius Medical Care Ag & Co. Kgaa
+8157,912595,MAA-PI,Mid America Apartment Communities Inc.
+8158,1611983,LBRDB,Liberty Broadband Corp
+8159,1281761,RF-PC,Regions Financial Corp
+8160,947484,ACGLO,Arch Capital Group Ltd.
+8161,1281761,RF-PB,Regions Financial Corp
+8162,845982,SNNUF,Smith & Nephew Plc
+8163,1442651,SHECF,"Shin-Etsu Chemical Co., Ltd."
+8164,1026214,FMCCT,Federal Home Loan Mortgage Corp
+8165,1611983,LBRDK,Liberty Broadband Corp
+8166,91576,KEY-PJ,Keycorp /New/
 8167,1161611,ALMMF,Aluminum Corp Of China Ltd
+8168,1564708,NWS,News Corp
+8169,1127248,ERRAF,Emera Inc
+8170,1617640,Z,"Zillow Group, Inc."
+8171,800954,OMRNF,Omron Corp /Fi
+8172,1163653,NRSCF,Nomura Holdings Inc
+8173,1545460,OLCLF,"Oriental Land Co., Ltd./Adr"
+8174,4457,UHAL-B,U-Haul Holding Co /Nv/
+8175,24545,TAP-A,Molson Coors Beverage Co
 8176,72127,NIPNF,Nec Corp
+8177,1062066,AOMFF,Alstom
+8178,1111711,NI-PB,Nisource Inc.
+8179,769218,AEGOF,Aegon Nv
+8180,1125259,CUKPF,Carnival Plc
+8181,1026214,FREJO,Federal Home Loan Mortgage Corp
+8182,1076378,CXMSF,Cemex Sab De Cv
+8183,1723690,BLBLF,Bilibili Inc.
+8184,1159152,JHIUF,James Hardie Industries Plc
+8185,818686,TEVJF,Teva Pharmaceutical Industries Ltd
+8186,1438569,GIKLY,Grifols Sa
+8187,1347557,GPAEF,Pacific Airport Group
+8188,1570585,LBTYB,Liberty Global Plc
+8189,100826,UEPCN,Union Electric Co
+8190,1810997,XPNGF,Xpeng Inc.
+8191,1436786,OUKPF,Outotec Oyj
+8192,1157557,CIG-C,Energy Co Of Minas Gerais
+8193,1127055,VIVEF,Vivendi
+8194,1049183,ACRFF,Accor
+8195,1423689,AGNCN,Agnc Investment Corp.
+8196,1067428,AULGF,Anglogold Ashanti Ltd
+8197,898174,RZB,Reinsurance Group Of America Inc
+8198,1447100,YAMHF,"Yamaha Motor Co., Ltd."
+8199,34903,FRT-PC,Federal Realty Investment Trust
+8200,1560385,LSXMB,Liberty Media Corp
+8201,1423689,AGNCM,Agnc Investment Corp.
+8202,100826,UEPEO,Union Electric Co
+8203,100826,UEPEP,Union Electric Co
+8204,1884082,PSNYW,Polestar Automotive Holding Uk Plc
+8205,1446418,MTLHF,Mitsubishi Chemical Holdings Corp
+8206,314590,SASOF,Sasol Ltd
+8207,1123452,ASRMF,Southeast Airport Group
 8208,1091907,WWE,"World Wrestling Entertainment, Llc"
+8209,1385535,GLPEF,"Galp Energia, Sgps, S.A."
+8210,1442653,ROHCF,"Rohm Co., Ltd."
+8211,1449003,ASXFF,Asx Ltd.
+8212,886982,GS-PC,Goldman Sachs Group Inc
+8213,1786909,SBYSF,Sibanye Stillwater Ltd
+8214,1570585,LBTYK,Liberty Global Plc
+8215,899689,VNO-PL,Vornado Realty Trust
+8216,1562401,AMH-PH,American Homes 4 Rent
+8217,100826,UEPCP,Union Electric Co
+8218,1562401,AMH-PG,American Homes 4 Rent
+8219,899689,VNO-PM,Vornado Realty Trust
+8220,1560385,LSXMK,Liberty Media Corp
+8221,100826,UEPEM,Union Electric Co
+8222,100826,UEPEN,Union Electric Co
+8223,879101,KIM-PM,Kimco Realty Corp
+8224,1438569,GIFLF,Grifols Sa
+8225,1489079,PADEF,Adaro Energy Pt/Adr/
+8226,1438569,GIFOF,Grifols Sa
+8227,1535929,VOYA-PB,"Voya Financial, Inc."
+8228,1710864,MSUXF,Misumi Group Inc./Adr
+8229,879101,KIM-PL,Kimco Realty Corp
+8230,938323,PSORF,Pearson Plc
+8231,1527469,ATH-PA,Athene Holding Ltd
+8232,1481045,DSECF,Daiwa Securities Group Inc.
+8233,811156,CMSA,Cms Energy Corp
+8234,1558812,MEJHF,Meiji Holdings Co Ltd/Adr
+8235,913144,RNR-PF,Renaissancere Holdings Ltd
+8236,1338065,DCP-PC,"Dcp Midstream, Lp"
+8237,1446596,FANUF,Fanuc Ltd
+8238,1455955,PUTKF,Pt United Tractors Tbk / Adr
+8239,1534043,FUPEF,Fuchs Petrolub Se/Adr
 8240,1455626,EENEF,Electrocomponents Plc / Adr
+8241,78150,PHTCF,Pldt Inc.
 8242,1156831,QBCRF,Quebecor Media Inc
+8243,1004980,PCG-PA,Pg&E Corp
+8244,1156831,QBCAF,Quebecor Media Inc
+8245,1403528,OAK-PB,"Oaktree Capital Group, Llc"
+8246,896076,MGDDF,Michelin Compagnie Generale Des Etablissements Michelin /Fi
+8247,1040971,SLG-PI,Sl Green Realty Corp
+8248,1449005,JSCPF,Jsr Corp.
+8249,1447137,BKGFF,Berkeley Group Holdings Plc
+8250,5513,UNMA,Unum Group
+8251,18349,SNV-PD,Synovus Financial Corp
+8252,1437178,EGFEF,Efg Eurobank Ergasias S.A./Adr
+8253,1593538,JSM,Navient Corp
+8254,1567683,CWEN-A,"Clearway Energy, Inc."
+8255,1004980,PCG-PB,Pg&E Corp
+8256,794685,GAB-PG,Gabelli Equity Trust Inc
 8257,1695519,ATGFF,Altagas Ltd.
+8258,899689,VNORP,Vornado Realty Trust
+8259,1685040,BHFAL,"Brighthouse Financial, Inc."
+8260,1004980,PCG-PD,Pg&E Corp
+8261,1004980,PCG-PC,Pg&E Corp
+8262,763901,BPOPO,"Popular, Inc."
+8263,1004980,PCG-PH,Pg&E Corp
+8264,1437774,BZZUF,Buzzi Unicem S.P.A.
 8265,1792627,TKAYF,Just Eat Takeaway.Com N.V.
+8266,1090633,IIJIF,Internet Initiative Japan Inc
 8267,1792045,THNPY,Technip Energies N.V.
+8268,1045450,EPR-PG,Epr Properties
+8269,1004980,PCG-PG,Pg&E Corp
+8270,1412558,EVOTF,Evotec Se
+8271,1004980,PCG-PE,Pg&E Corp
+8272,1214816,AXS-PE,Axis Capital Holdings Ltd
+8273,936340,DTW,Dte Energy Co
+8274,871459,DFILF,Dairy Farm International Holdings Ltd /Fi
 8275,1172494,AUOTY,Au Optronics Corp
+8276,1435969,MXCHF,"Orbia Advance Corporation, S.A.B. De C.V./Adr"
+8277,1126956,SR-PA,Spire Inc
+8278,1546354,DFRYF,Dufry Ag/Adr
+8279,1004980,PCG-PI,Pg&E Corp
+8280,910073,NYCB-PA,New York Community Bancorp Inc
+8281,1671750,DISPF,Disco Corporation/Adr
+8282,1032033,SLMBP,Slm Corp
+8283,1792045,THNPF,Technip Energies N.V.
+8284,1571283,REXR-PB,"Rexford Industrial Realty, Inc."
+8285,1685040,BHFAP,"Brighthouse Financial, Inc."
+8286,803649,EQC-PD,Equity Commonwealth
+8287,1378239,GAERF,Central North Airport Group
+8288,1447945,ASMVF,Asm Pacific Technology Ltd.
+8289,1487712,AL-PA,Air Lease Corp
+8290,1492074,ABCZF,Abcam Plc
+8291,1792627,JTKWY,Just Eat Takeaway.Com N.V.
+8292,720672,SF-PB,Stifel Financial Corp
+8293,1308606,SRC-PA,"Spirit Realty Capital, Inc."
+8294,1363829,ESGRO,Enstar Group Ltd
+8295,1110805,NS-PB,Nustar Energy L.P.
+8296,1062750,SAPMF,Saipem S P A /Fi
+8297,1012019,RUSHB,Rush Enterprises Inc Tx
+8298,43920,GEF-B,"Greif, Inc"
+8299,78814,PBI-PB,Pitney Bowes Inc /De/
+8300,1062750,SAPMY,Saipem S P A /Fi
+8301,1110805,NS-PA,Nustar Energy L.P.
+8302,67887,MOG-B,Moog Inc.
+8303,1363829,ESGRP,Enstar Group Ltd
+8304,37808,FNB-PE,Fnb Corp/Pa/
+8305,1465740,TWO-PC,Two Harbors Investment Corp.
+8306,1336917,UA,"Under Armour, Inc."
+8307,1446694,SHWDF,Showa Denko K.K./Adr
+8308,1015328,WTFCM,Wintrust Financial Corp
 8309,908732,SPTJF,Sinopec Shanghai Petrochemical Co Ltd
+8310,11544,WRB-PE,Berkley W R Corp
+8311,1409493,CIM-PD,Chimera Investment Corp
+8312,801337,WBS-PF,Webster Financial Corp
+8313,1409493,CIM-PB,Chimera Investment Corp
+8314,310522,FNMAS,Federal National Mortgage Association Fannie Mae
+8315,310522,FNMFN,Federal National Mortgage Association Fannie Mae
+8316,714310,VLYPO,Valley National Bancorp
+8317,1511337,RLJ-PA,Rlj Lodging Trust
+8318,1474098,PEB-PF,Pebblebrook Hotel Trust
+8319,932470,TCMFF,Telecom Argentina Sa
+8320,1474098,PEB-PE,Pebblebrook Hotel Trust
+8321,98677,TROLB,Tootsie Roll Industries Inc
+8322,1465740,TWO-PA,Two Harbors Investment Corp.
+8323,310522,FNMAH,Federal National Mortgage Association Fannie Mae
+8324,357294,HOVNP,Hovnanian Enterprises Inc
+8325,1409493,CIM-PC,Chimera Investment Corp
+8326,1409493,CIM-PA,Chimera Investment Corp
+8327,1592438,ROYMF,Royal Mail Plc/Adr
+8328,1465740,TWO-PB,Two Harbors Investment Corp.
+8329,310522,FNMAJ,Federal National Mortgage Association Fannie Mae
+8330,1380366,GGNDF,Gn Store Nord A/S
+8331,1023514,HGMCF,Harmony Gold Mining Co Ltd
 8332,1012139,GNGYF,Guangshen Railway Co Ltd
+8333,1534043,FUPBY,Fuchs Petrolub Se/Adr
+8334,1055160,MFA-PB,"Mfa Financial, Inc."
+8335,99614,TY-P,Tri-Continental Corp
+8336,1144800,TNSSF,Transalta Corp
+8337,1648257,HMDCF,Hutchmed (China) Ltd
+8338,714310,VLYPP,Valley National Bancorp
+8339,1712184,LILAB,Liberty Latin America Ltd.
+8340,1421876,GLPGF,Galapagos Nv
+8341,912892,GRPFF,"Grupo Televisa, S.A.B."
+8342,310522,FNMAM,Federal National Mortgage Association Fannie Mae
 8343,92108,SOCGP,Southern California Gas Co
+8344,18654,AILLI,Ameren Illinois Co
+8345,1110805,NS-PC,Nustar Energy L.P.
+8346,1618563,NSA-PA,National Storage Affiliates Trust
+8347,1958140,BATRB,"Atlanta Braves Holdings, Inc."
 8348,107815,WELPP,Wisconsin Electric Power Co
+8349,7789,ASB-PE,Associated Banc-Corp
+8350,1592651,LNZNF,Lenzing Ag/Adr
+8351,18654,AILLM,Ameren Illinois Co
+8352,18654,AILLN,Ameren Illinois Co
+8353,1660734,TRTN-PA,Triton International Ltd
+8354,1958140,BATRK,"Atlanta Braves Holdings, Inc."
+8355,1628063,SRG-PA,Seritage Growth Properties
+8356,894315,SITC-PA,Site Centers Corp.
+8357,310522,FNMAN,Federal National Mortgage Association Fannie Mae
+8358,925261,AKO-B,Andina Bottling Co Inc
+8359,18654,AILIM,Ameren Illinois Co
+8360,310522,FNMAI,Federal National Mortgage Association Fannie Mae
 8361,1770561,CODQL,Coronado Global Resources Inc.
+8362,887733,CENTA,Central Garden & Pet Co
+8363,18654,AILLO,Ameren Illinois Co
 8364,1829948,CIXXF,Ci Financial Corp.
+8365,910108,LXP-PC,Lxp Industrial Trust
 8366,1683252,TKCM,Token Communities Ltd.
+8367,310522,FNMAT,Federal National Mortgage Association Fannie Mae
+8368,18654,AILIN,Ameren Illinois Co
+8369,310522,FNMAK,Federal National Mortgage Association Fannie Mae
+8370,1110805,NSS,Nustar Energy L.P.
+8371,310522,FNMAL,Federal National Mortgage Association Fannie Mae
+8372,310522,FNMFM,Federal National Mortgage Association Fannie Mae
+8373,18654,AILLP,Ameren Illinois Co
+8374,107140,WLYB,"John Wiley & Sons, Inc."
+8375,310522,FNMAO,Federal National Mortgage Association Fannie Mae
+8376,310522,FNMAG,Federal National Mortgage Association Fannie Mae
 8377,1892316,LDDD,Longduoduo Co Ltd
+8378,1712184,LILAK,Liberty Latin America Ltd.
+8379,310522,FNMFO,Federal National Mortgage Association Fannie Mae
+8380,929351,LGF-B,Lions Gate Entertainment Corp /Cn/
+8381,1504461,NGL-PB,Ngl Energy Partners Lp
+8382,845877,AGM-A,Federal Agricultural Mortgage Corp
 8383,1446626,UBEOF,Ube Industries Ltd
+8384,1260729,GDV-PH,Gabelli Dividend & Income Trust
+8385,1553079,FISK,"Empire State Realty Op, L.P."
+8386,1437071,IVR-PC,Invesco Mortgage Capital Inc.
+8387,1437071,IVR-PB,Invesco Mortgage Capital Inc.
+8388,1504461,NGL-PC,Ngl Energy Partners Lp
+8389,907254,BFS-PD,"Saul Centers, Inc."
+8390,1026214,FMCKI,Federal Home Loan Mortgage Corp
+8391,1026214,FMCCG,Federal Home Loan Mortgage Corp
+8392,1553079,OGCP,"Empire State Realty Op, L.P."
+8393,1026214,FMCKL,Federal Home Loan Mortgage Corp
+8394,1569963,LTGHF,Life Healthcare Group Holdings Limited/Adr
+8395,1464423,PMT-PA,Pennymac Mortgage Investment Trust
+8396,1026214,FMCCI,Federal Home Loan Mortgage Corp
+8397,1026214,FMCCJ,Federal Home Loan Mortgage Corp
+8398,1464423,PMT-PB,Pennymac Mortgage Investment Trust
+8399,1026214,FMCCL,Federal Home Loan Mortgage Corp
+8400,1412100,MHLA,"Maiden Holdings, Ltd."
+8401,794685,GAB-PH,Gabelli Equity Trust Inc
+8402,1534126,GLOG-PA,Gaslog Ltd.
 8403,1585389,STSFF,"Smartstop Self Storage Reit, Inc."
+8404,1526113,GNL-PA,"Global Net Lease, Inc."
+8405,1026214,FMCCS,Federal Home Loan Mortgage Corp
+8406,1259429,OXSQL,Oxford Square Capital Corp.
 8407,1490927,BDVC,Franklin Bsp Lending Corp
+8408,1280784,HCXY,"Hercules Capital, Inc."
+8409,1026214,FMCCO,Federal Home Loan Mortgage Corp
 8410,1816901,SWGHF,"Sawai Group Holdings Co., Ltd."
+8411,1345126,CODI-PB,Compass Diversified Holdings
+8412,1345126,CODI-PA,Compass Diversified Holdings
+8413,1267395,AHL-PD,Aspen Insurance Holdings Ltd
+8414,1026214,FMCKN,Federal Home Loan Mortgage Corp
+8415,1026214,FREJN,Federal Home Loan Mortgage Corp
+8416,1026214,FMCCN,Federal Home Loan Mortgage Corp
+8417,1026214,FMCKO,Federal Home Loan Mortgage Corp
+8418,1026214,FMCKJ,Federal Home Loan Mortgage Corp
+8419,1273685,NYMTN,New York Mortgage Trust Inc
 8420,1568162,RTL,"Necessity Retail Reit, Inc."
+8421,1026214,FMCKM,Federal Home Loan Mortgage Corp
+8422,1598655,GLOP-PB,Gaslog Partners Lp
+8423,1026214,FREGP,Federal Home Loan Mortgage Corp
+8424,1598655,GLOP-PA,Gaslog Partners Lp
+8425,1026214,FMCCH,Federal Home Loan Mortgage Corp
+8426,1026214,FMCCK,Federal Home Loan Mortgage Corp
+8427,1400891,IHRTB,"Iheartmedia, Inc."
+8428,719413,HL-PB,Hecla Mining Co/De/
+8429,1026214,FMCCP,Federal Home Loan Mortgage Corp
+8430,1026214,FMCCM,Federal Home Loan Mortgage Corp
+8431,1026214,FMCKP,Federal Home Loan Mortgage Corp
+8432,1598655,GLOP-PC,Gaslog Partners Lp
+8433,1728205,PLLTL,Piedmont Lithium Inc.
+8434,1497645,INN-PE,"Summit Hotel Properties, Inc."
+8435,1569187,AHH-PA,"Armada Hoffler Properties, Inc."
+8436,1677576,IIPR-PA,Innovative Industrial Properties Inc
 8437,1482430,KBSR,"Kbs Real Estate Investment Trust Iii, Inc."
+8438,909531,CRNZF,Cairn Energy Plc
+8439,40417,GAM-PB,General American Investors Co Inc
 8440,1616736,ALPC,Alpha Investment Inc.
+8441,43196,GTN-A,Gray Television Inc
+8442,1782999,PTCHF,Puretech Health Plc
+8443,1063344,HT-PD,Hersha Hospitality Trust
 8444,1709442,FSUN,Firstsun Capital Bancorp
+8445,1448978,SMBMF,Sembcorp Marine Ltd.
+8446,845877,AGM-PC,Federal Agricultural Mortgage Corp
+8447,1345099,MEOBF,Mesoblast Ltd
+8448,55135,KELYB,Kelly Services Inc
+8449,1023512,DRDGF,Drdgold Ltd
+8450,845877,AGM-PD,Federal Agricultural Mortgage Corp
+8451,1340243,MPSYF,Morphosys Ag
+8452,315858,BVHBB,Bluegreen Vacations Holding Corp
+8453,1209028,AIC,Arlington Asset Investment Corp.
+8454,1503584,CMRE-PB,Costamare Inc.
+8455,1323468,GLP-PA,Global Partners Lp
+8456,1503584,CMRE-PC,Costamare Inc.
+8457,1713210,AATP,Agape Atp Corp
+8458,1063344,HT-PE,Hersha Hospitality Trust
+8459,1503584,CMRE-PD,Costamare Inc.
 8460,1385145,CELJF,Cellcom Israel Ltd.
+8461,1561032,HLTC,"Healthcare Trust, Inc."
+8462,1503584,CMRE-PE,Costamare Inc.
+8463,729580,BELFB,Bel Fuse Inc /Nj
+8464,216085,HVT-A,Haverty Furniture Companies Inc
+8465,1313510,GGN-PB,"Gamco Global Gold, Natural Resources & Income Trust"
+8466,921671,GGT-PE,Gabelli Multimedia Trust Inc.
+8467,1063344,HT-PC,Hersha Hospitality Trust
 8468,1726173,BH,Biglari Holdings Inc.
+8469,353184,AIRTP,Air T Inc
 8470,1060349,GAMI,"Gamco Investors, Inc. Et Al"
+8471,863110,ARTNB,Artesian Resources Corp
+8472,800457,DGICB,Donegal Group Inc
+8473,1234006,GOODO,Gladstone Commercial Corp
+8474,1495222,OXLCM,Oxford Lane Capital Corp.
+8475,1488813,CUBI-PE,"Customers Bancorp, Inc."
+8476,1488813,CUBI-PF,"Customers Bancorp, Inc."
+8477,752642,UMH-PD,"Umh Properties, Inc."
+8478,8063,ATROB,Astronics Corp
+8479,1604174,ECCX,Eagle Point Credit Co Inc.
+8480,1587987,NEWTI,"Newtekone, Inc."
+8481,1629019,MBINP,Merchants Bancorp
+8482,1214935,NCV-PA,Virtus Convertible & Income Fund
+8483,25475,CRD-B,Crawford & Co
+8484,357294,HOVVB,Hovnanian Enterprises Inc
+8485,1499849,BRCPF,Brasilagro - Brazilian Agricultural Real Estate Co
+8486,1533615,GMRE-PA,Global Medical Reit Inc.
+8487,1964504,TPRFF,Aris Mining Corp
 8488,885275,WBHC,Wilson Bank Holding Co
+8489,1495240,LANDM,Gladstone Land Corp
 8490,1115128,QUOT,Quotient Technology Inc.
+8491,1495222,OXLCO,Oxford Lane Capital Corp.
+8492,88948,SENEB,Seneca Foods Corp
+8493,1514281,MITT-PA,"Ag Mortgage Investment Trust, Inc."
+8494,1452857,SPLP-PA,Steel Partners Holdings L.P.
 8495,1556898,THPTF,"Techpoint, Inc."
+8496,1321741,GAINL,Gladstone Investment Corporation\De
+8497,1762303,AVHHL,"Avita Medical, Inc."
+8498,1762506,VSOGF,"Vista Energy, S.A.B. De C.V."
+8499,1514281,MITT-PB,"Ag Mortgage Investment Trust, Inc."
 8500,1402606,BCOMF,B Communications Ltd
+8501,1080720,GUT-PC,Gabelli Utility Trust
+8502,1887388,BRCHF,Brainchip Holdings Limited/Adr
+8503,1815620,CKDXF,Opthea Ltd
+8504,1849475,NCACU,Newcourt Acquisition Corp
+8505,23426,CNTHP,Connecticut Light & Power Co
+8506,1842644,SLVR,Silverspac Inc.
+8507,23426,CNLPL,Connecticut Light & Power Co
+8508,1896084,GSCCF,Ioneer Ltd
+8509,1869141,ACAQ-UN,Athena Consumer Acquisition Corp.
+8510,1227857,NCZ-PA,Virtus Convertible & Income Fund Ii
+8511,1166663,TNP-PE,Tsakos Energy Navigation Ltd
+8512,1318885,DSX-PB,Diana Shipping Inc.
+8513,1593222,CIO-PA,"City Office Reit, Inc."
+8514,23426,CNTHO,Connecticut Light & Power Co
+8515,1574085,BHR-PD,Braemar Hotels & Resorts Inc.
+8516,1571776,CHMI-PB,Cherry Hill Mortgage Investment Corp
+8517,1166663,TNP-PF,Tsakos Energy Navigation Ltd
+8518,1682745,VRRMW,Verra Mobility Corp
 8519,1160846,OIBRQ,Oi S.A. - In Judicial Reorganization
+8520,46207,HAWLN,Hawaiian Electric Co Inc
+8521,23426,CNTHN,Connecticut Light & Power Co
 8522,1459762,EXROF,Exro Technologies Inc.
+8523,1479615,SLNCF,Silence Therapeutics Plc
+8524,46207,HAWEN,Hawaiian Electric Co Inc
+8525,1041657,UONEK,"Urban One, Inc."
+8526,23426,CNLHO,Connecticut Light & Power Co
+8527,1944885,APLMW,Apollomics Inc.
+8528,23426,CNLHP,Connecticut Light & Power Co
+8529,1355096,QRTEB,"Qurate Retail, Inc."
+8530,1574085,BHR-PB,Braemar Hotels & Resorts Inc.
+8531,1243429,ARCXF,Arcelormittal
+8532,23426,CNLTP,Connecticut Light & Power Co
+8533,1232582,AHT-PG,Ashford Hospitality Trust Inc
+8534,1567924,MIESF,"Mitsui E&S Holdings Co., Ltd./Adr"
+8535,922358,FGPRB,Ferrellgas Partners L P
+8536,1824153,LHC-UN,Leo Holdings Corp. Ii
+8537,23426,CNLTL,Connecticut Light & Power Co
+8538,23426,CNPWM,Connecticut Light & Power Co
+8539,1653558,PRTHU,"Priority Technology Holdings, Inc."
+8540,1571776,CHMI-PA,Cherry Hill Mortgage Investment Corp
+8541,23426,CNPWP,Connecticut Light & Power Co
+8542,1495240,LANDP,Gladstone Land Corp
+8543,23426,CNLPM,Connecticut Light & Power Co
 8544,1641601,RVRF,River Financial Corp
+8545,23426,CNLTN,Connecticut Light & Power Co
+8546,1756594,IVEVF,Inventiva S.A.
+8547,1598599,IPHYF,Innate Pharma Sa
+8548,1859795,NVNXF,Novonix Ltd
 8549,1685766,MVXM,Moveix Inc.
+8550,1232582,AHT-PI,Ashford Hospitality Trust Inc
+8551,71508,ENO,"Entergy New Orleans, Llc"
+8552,1874218,RCACU,Revelstone Capital Acquisition Corp.
+8553,1232582,AHT-PH,Ashford Hospitality Trust Inc
+8554,1873875,IHLXF,Incannex Healthcare Ltd
+8555,1232582,AHT-PF,Ashford Hospitality Trust Inc
+8556,1232582,AHT-PD,Ashford Hospitality Trust Inc
 8557,1271554,ERLFF,Entree Resources Ltd.
+8558,1515816,PLYM-PA,"Plymouth Industrial Reit, Inc."
+8559,1434754,SB-PC,"Safe Bulkers, Inc."
 8560,1302084,NSRCF,Nextsource Materials Inc.
+8561,1434754,SB-PD,"Safe Bulkers, Inc."
+8562,1850453,MOYFF,Mynaric Ag
+8563,761648,CDR-PB,"Cedar Realty Trust, Inc."
+8564,1578453,DLNG-PA,Dynagas Lng Partners Lp
+8565,1606745,LTRPB,"Liberty Tripadvisor Holdings, Inc."
+8566,1333172,NM-PH,Navios Maritime Holdings Inc.
+8567,1347652,CORR-PA,"Corenergy Infrastructure Trust, Inc."
+8568,1333172,NM-PG,Navios Maritime Holdings Inc.
+8569,1814974,BBXIB,"Bbx Capital, Inc."
+8570,761648,CDR-PC,"Cedar Realty Trust, Inc."
 8571,1836274,ACAH,Atlantic Coastal Acquisition Corp.
+8572,1811115,RTNXF,Renalytix Plc
+8573,1662991,SEZNL,Sezzle Inc.
+8574,793040,ECF-PA,Ellsworth Growth & Income Fund Ltd
+8575,716634,RDIB,Reading International Inc
+8576,1301236,SOHOB,Sotherly Hotels Inc.
+8577,1705012,FATBB,"Fat Brands, Inc"
+8578,1301236,SOHOO,Sotherly Hotels Inc.
+8579,1301236,SOHON,Sotherly Hotels Inc.
+8580,9521,BCV-PA,Bancroft Fund Ltd
+8581,93676,SCXLB,Starrett L S Co
+8582,1191070,BNOEF,Bionomics Limited/Fi
+8583,1589150,RGBPP,Regen Biopharma Inc
+8584,1282957,GLU-PB,Gabelli Global Utility & Income Trust
 8585,1895251,SGTM,"Sustainable Green Team, Ltd."
+8586,1166272,GNTLF,Genetic Technologies Ltd
+8587,1854078,RLFTF,Relief Therapeutics Holding Sa
 8588,1712641,BFFTF,Biofrontera Ag
 8589,1875931,OFSTF,Carbon Streaming Corp
+8590,1861233,ILLM,Illumin Holdings Inc.
+8591,1430725,GSL-PB,"Global Ship Lease, Inc."
 8592,1841004,ATAQ,Altimar Acquisition Corp. Iii
+8593,1072627,KFSYF,Kingsway Financial Services Inc
+8594,1855485,FLAG,"First Light Acquisition Group, Inc."
+8595,1833498,RCLF,"Spectral Ai, Inc."
+8596,1578453,DLNG-PB,Dynagas Lng Partners Lp
 8597,1004530,MPVDF,Mountain Province Diamonds Inc.
 8598,1374328,FTLF,"Fitlife Brands, Inc."
 8599,1888274,DEFTF,"Defi Technologies, Inc."
@@ -8001,24 +8605,38 @@
 8603,1007273,BKSC,Bank Of South Carolina Corp
 8604,1882839,WONDF,Wonderfi Technologies Inc.
 8605,1718108,SURF,"Surface Oncology, Inc."
+8606,1429260,FBIOP,"Fortress Biotech, Inc."
 8607,1853825,TZUP,Thumzup Media Corp
 8608,1515114,GWIN,"Glorywin Entertainment Group, Inc."
 8609,1087456,UBOH,United Bancshares Inc/Oh
+8610,1841675,ARBKF,Argo Blockchain Plc
+8611,1823575,ZFOXW,"Zerofox Holdings, Inc."
 8612,1787384,FFBW,"Ffbw, Inc. /Md/"
+8613,1448815,RFLFF,Raffles Education Corp Ltd
 8614,1650739,AJIA,"Ajia Innogroup Holdings, Ltd."
 8615,1389207,GFASY,Gafisa S.A.
+8616,1816723,GRFXF,Graphex Group Ltd
+8617,1679063,CSSEP,"Chicken Soup For The Soul Entertainment, Inc."
 8618,1705259,SMTSF,Sierra Metals Inc.
 8619,1496454,CHTH,"Cnl Healthcare Properties, Inc."
 8620,1363958,WCRS,"Western Capital Resources, Inc."
+8621,1690585,MGTA,"Dianthus Therapeutics, Inc. /De/"
+8622,1762359,ACRDF,"Acreage Holdings, Inc."
 8623,1787005,CNNB,"Cincinnati Bancorp, Inc."
 8624,1362898,AVLNF,Avalon Advanced Materials Inc.
 8625,1678105,CAHO,Caro Holdings Inc.
 8626,1434674,CHND,China Media Inc.
 8627,1463833,IDWM,"Idw Media Holdings, Inc."
+8628,1888175,PXCLF,Phoenix Copper Limited/Adr
+8629,1738699,WSKEF,Wisekey International Holding S.A.
+8630,1786286,DPRO,Draganfly Inc.
+8631,1898601,TAOFF,Iperionx Ltd
+8632,838875,WVVIP,Willamette Valley Vineyards Inc
 8633,1792597,CMHF,"Community Heritage Financial, Inc."
 8634,1723059,BIOE,Bio Essence Corp
 8635,943034,AATC,Autoscope Technologies Corp
 8636,1175483,DSHK,Drive Shack Inc.
+8637,1505065,BRSYF,Brainsway Ltd.
 8638,1528760,EXEO,"Exeo Entertainment, Inc."
 8639,1512927,CUII,"China United Insurance Service, Inc."
 8640,1598323,ACMB,Agro Capital Management Corp.
@@ -8032,34 +8650,45 @@
 8648,1891512,XTXXF,Adastra Holdings Ltd.
 8649,1634394,RSCI,"Redwood Scientific Technologies, Inc."
 8650,1068618,GVSI,"Good Vibrations Shoes, Inc."
+8651,1130166,CYCCP,"Cyclacel Pharmaceuticals, Inc."
 8652,1835385,MBBC,"Marathon Bancorp, Inc. /Md/"
+8653,1708527,AZYO,Elutia Inc.
+8654,926423,MINDP,"Mind Technology, Inc"
 8655,1791325,FIGI,Freedom Internet Group Inc.
 8656,1568628,BQST,Bioquest Corp
 8657,1882607,ALPSQ,"Alpine Summit Energy Partners, Inc."
 8658,942149,OCGSF,Outcrop Silver & Gold Corp
 8659,1751700,TBBA,"Teb Bancorp, Inc."
+8660,1042046,AFGC,American Financial Group Inc
 8661,910679,WVFC,Wvs Financial Corp
 8662,1002135,WSTL,Westell Technologies Inc
 8663,733337,PWCO,"Pwrcor, Inc."
 8664,1716188,SSBP,"Ssb Bancorp, Inc."
 8665,825788,DIVVZ,Divall Insured Income Properties 2 Limited Partnership
+8666,1444874,TETAB,"Teton Advisors, Inc."
 8667,1305773,CFMS,Conformis Inc
 8668,50292,IEHC,Ieh Corp
 8669,1531266,ELIO,"Elio Motors, Inc."
 8670,1396633,SUME,Summer Energy Holdings Inc
+8671,1949766,ODDAF,Odd Burger Corp
+8672,1771755,SWISF,Sekur Private Data Ltd.
 8673,1470129,CATG,Capstone Technologies Group Inc.
 8674,1731727,LMPX,"Lmp Automotive Holdings, Inc."
 8675,1158399,BRCNF,Burcon Nutrascience Corp
 8676,840551,TMDIF,Titan Medical Inc
+8677,1131343,PRNAF,Alterity Therapeutics Ltd
 8678,1645155,WBSR,Webstar Technology Group Inc.
 8679,846546,BNSOF,Bonso Electronics International Inc
 8680,1019671,SEAC,Seachange International Inc
 8681,1769725,ERKH,"Eureka Homestead Bancorp, Inc."
 8682,1827855,MCLE,Medicale Corp.
 8683,1376986,TVC,Tennessee Valley Authority
+8684,1376986,TVE,Tennessee Valley Authority
 8685,1617765,LNDZF,Salona Global Medical Device Corp
 8686,1439237,QOEG,Quality Online Education Group Inc.
 8687,1096950,ACTX,"Advanced Container Technologies, Inc."
+8688,1898643,MILOF,Mobilicom Ltd
+8689,1527541,WHLRD,"Wheeler Real Estate Investment Trust, Inc."
 8690,1868079,PMEDF,Predictmedix Inc.
 8691,1415813,ARMC,Un Monde International Worldwide Ltd.
 8692,1816554,EVTK,Eventiko Inc.
@@ -8071,18 +8700,27 @@
 8698,922521,FALC,Falconstor Software Inc
 8699,1301713,SHVLF,Starcore International Mines Ltd.
 8700,1446371,SGIC,"Strategic Realty Trust, Inc."
+8701,1318482,SGLDF,Kidoz Inc.
 8702,1551206,HGLD,Patagonia Gold Corp.
+8703,887247,ADMP,Dmk Pharmaceuticals Corp
 8704,926844,FBDS,Fuss Brands Corp.
 8705,1609139,INND,"Innerscope Hearing Technologies, Inc."
 8706,1723517,UCASU,Uc Asset Lp
 8707,1312109,SICP,Silvergate Capital Corp
+8708,1789299,UTME,Utime Ltd
+8709,1543268,BTB,Bit Brother Ltd
 8710,1294404,SFUNY,Fang Holdings Ltd
+8711,1637890,CLYYF,Celyad Oncology Sa
+8712,1705338,LOV,Spark Networks Se
 8713,1706588,RYTTF,Royalty North Partners Ltd.
+8714,1804469,GRDAF,"Guardforce Ai Co., Ltd."
 8715,1016708,RCAR,"Renovacare, Inc."
 8716,1094084,TKOI,Telkonet Inc
 8717,1588014,ADMQ,"Adm Endeavors, Inc."
 8718,1756704,SIRC,Solar Integrated Roofing Corp.
+8719,1611747,BVXV,Scinai Immunotherapeutics Ltd.
 8720,1067873,IPTK,As-Ip Tech Inc
+8721,1435064,CETXP,Cemtrex Inc
 8722,1358099,UCIX,"Umbra Companies, Inc."
 8723,918573,GRVE,Groove Botanicals Inc.
 8724,1442853,IGEX,"Indo Global Exchange(S) Pte, Ltd."
@@ -8095,6 +8733,7 @@
 8731,1078037,REMI,"Remedent, Inc."
 8732,945828,AMTY,Amerityre Corp
 8733,1508381,BNKL,Bionik Laboratories Corp.
+8734,1828098,MTTCF,Steakholder Foods Ltd.
 8735,1487198,ASPU,"Aspen Group, Inc."
 8736,1776048,AMMX,Ameramex International Inc
 8737,1458631,HALB,Halberd Corp
@@ -8127,12 +8766,14 @@
 8764,1553264,APSI,Aqua Power Systems Inc.
 8765,1492448,GRNF,Grn Holding Corp
 8766,1002771,IGPK,"Integrated Cannabis Solutions, Inc."
+8767,1527541,WHLRP,"Wheeler Real Estate Investment Trust, Inc."
 8768,1682265,RELT,"Reliant Holdings, Inc."
 8769,1685237,TMRR,Temir Corp.
 8770,1574910,RIII,"Renavotio, Inc."
 8771,1351051,GENN,"Genesis Healthcare, Inc."
 8772,1794311,BLEG,"Branded Legacy, Inc."
 8773,1420108,GLUC,"Glucose Health, Inc."
+8774,1898643,MOBBW,Mobilicom Ltd
 8775,1119897,PCTL,Pct Ltd
 8776,1349929,VYNT,"Vyant Bio, Inc."
 8777,1645260,TOMDF,Todos Medical Ltd.
@@ -8141,6 +8782,7 @@
 8780,1591615,VXIT,"Virexit Technologies, Inc."
 8781,6494,ANDR,Andrea Electronics Corp
 8782,29952,CHJI,"China Changjiang Mining & New Energy Company, Ltd."
+8783,1004724,RHE-PA,"Regional Health Properties, Inc"
 8784,822655,LEAS,"Strategic Asset Leasing, Inc."
 8785,1516887,WCUI,"Wellness Center Usa, Inc."
 8786,1671818,ONCR,"Oncorus, Inc."
@@ -8160,19 +8802,25 @@
 8800,1413488,CBGL,"Cannabis Global, Inc."
 8801,837342,CORG,Cordia Corp
 8802,1325950,MOCI,"Energy Holdings, Inc."
+8803,731245,PDNLB,Presidential Realty Corp/De/
 8804,1412659,RGIN,"Regenicin, Inc."
 8805,1108248,KNOS,Kronos Advanced Technologies Inc
+8806,1621672,SLGG,"Super League Enterprise, Inc."
 8807,1503458,FTXP,"Foothills Exploration, Inc."
 8808,1300938,ABCE,"Abco Energy, Inc."
 8809,1664127,ALTD,"Altitude International Holdings, Inc."
 8810,1496671,CALA,"Calithera Biosciences, Inc."
 8811,1041588,ACCR,"Access-Power & Co., Inc."
 8812,1317880,PLPL,"Plandai Biotechnology, Inc."
+8813,1584831,OXBRW,Oxbridge Re Holdings Ltd
 8814,1433551,SGLA,Sino Green Land Corp.
 8815,1787412,WBBA,"Wb Burgers Asia, Inc."
+8816,1490054,APHD,"Verde Bio Holdings, Inc."
+8817,1566610,VERBW,"Verb Technology Company, Inc."
 8818,1604930,LCLP,"Life Clips, Inc."
 8819,1415306,PSRU,"Valiant Eagle, Inc."
 8820,1407591,MSTO,Masterbeat Corp
+8821,1621221,ARTLW,"Artelo Biosciences, Inc."
 8822,715788,EVIO,"Evio, Inc."
 8823,1863116,AERS,Aerius International Inc.
 8824,1351573,PHCG,"Pure Harvest Corporate Group, Inc."
@@ -8234,94 +8882,2018 @@
 8880,1142790,TAUG,"Tauriga Sciences, Inc."
 8881,1797956,RCMW,"Rcmw Group, Inc."
 8882,1493712,CMXC,Cell Medx Corp.
+8883,70858,BAC-PL,Bank Of America Corp /De/
+8884,842183,RPT-PD,Rpt Realty
+8885,1786248,NREF-PA,"Nexpoint Real Estate Finance, Inc."
+8886,1055160,MFA-PC,"Mfa Financial, Inc."
+8887,1868640,VHNAU,Vahanna Tech Edge Acquisition I Corp.
+8888,1868640,VHNAW,Vahanna Tech Edge Acquisition I Corp.
+8889,1819438,GWH-WT,"Ess Tech, Inc."
+8890,1651721,GIPRW,"Generation Income Properties, Inc."
+8891,1834755,SLACU,Social Leverage Acquisition Corp I
+8892,1834755,SLACW,Social Leverage Acquisition Corp I
+8893,1585389,SSST,"Smartstop Self Storage Reit, Inc."
 8894,866368,PSBXP,"Ps Business Parks, Inc./Md"
+8895,866368,PSBYP,"Ps Business Parks, Inc./Md"
+8896,866368,PSBZP,"Ps Business Parks, Inc./Md"
+8897,712771,CNOBP,"Connectone Bancorp, Inc."
+8898,883948,AUB-PA,Atlantic Union Bankshares Corp
+8899,1466026,MSBIP,"Midland States Bancorp, Inc."
+8900,1719489,KLR-WT,"Kaleyra, Inc."
 8901,1794846,ATCOL,Atlas Corp.
+8902,1794846,ATCO-PD,Atlas Corp.
+8903,1794846,ATCO-PH,Atlas Corp.
+8904,1794846,ATCO-PI,Atlas Corp.
 8905,1675426,SMGE,"Sigmata Electronics, Inc."
+8906,907254,BFS-PE,"Saul Centers, Inc."
+8907,880984,ACFND,"Acorn Energy, Inc."
+8908,1847607,RFACU,Rf Acquisition Corp.
+8909,1847607,RFACW,Rf Acquisition Corp.
+8910,1847607,RFACR,Rf Acquisition Corp.
+8911,1840353,TRCA-UN,Twin Ridge Capital Acquisition Corp.
+8912,1840353,TRCA-WT,Twin Ridge Capital Acquisition Corp.
+8913,230557,SIGIP,Selective Insurance Group Inc
+8914,1855447,TYGOW,"Tigo Energy, Inc."
+8915,1849820,KITTW,"Nauticus Robotics, Inc."
+8916,1802457,ORGNW,"Origin Materials, Inc."
+8917,1813914,CMAXW,"Caremax, Inc."
+8918,1077428,TCBIO,Texas Capital Bancshares Inc/Tx
+8919,1719406,NRXPW,"Nrx Pharmaceuticals, Inc."
+8920,1498382,DMPWW,"Kintara Therapeutics, Inc."
+8921,1844505,GIAFW,"Gigcapital5, Inc."
+8922,1844505,GIAFU,"Gigcapital5, Inc."
+8923,910606,REGCP,Regency Centers Corp
+8924,910606,REGCO,Regency Centers Corp
+8925,1756499,MCLDP,Mcloud Technologies Corp.
+8926,1756499,MCLDW,Mcloud Technologies Corp.
+8927,1708410,WINRW,Simplicity Esports & Gaming Co
 8928,1957783,MACT,"Machten, Inc."
+8929,1392694,SURGW,"Surgepays, Inc."
+8930,1813814,MMCWF,Mind Medicine (Mindmed) Inc.
+8931,1813814,MMDCF,Mind Medicine (Mindmed) Inc.
+8932,1624422,ERYFF,Phaxiam Therapeutics S.A.
+8933,1653384,RWAYL,Runway Growth Finance Corp.
+8934,1653384,RWAYZ,Runway Growth Finance Corp.
+8935,1831096,GEGGL,"Great Elm Group, Inc."
+8936,1876945,GRAMW,Gold Flora Corp.
 8937,1824036,IDBAY,Idex Biometrics Asa
 8938,1255474,WLLAW,Whiting Holdings Llc
+8939,1255474,WLLBW,Whiting Holdings Llc
+8940,769594,NPPXF,Nippon Telegraph & Telephone Corp
+8941,1794338,IGICW,International General Insurance Holdings Ltd.
+8942,1679688,DBRG-PH,"Digitalbridge Group, Inc."
+8943,1679688,DBRG-PI,"Digitalbridge Group, Inc."
+8944,1679688,DBRG-PJ,"Digitalbridge Group, Inc."
+8945,1561032,HTIBP,"Healthcare Trust, Inc."
+8946,1716951,OCCIN,"Ofs Credit Company, Inc."
+8947,1716951,OCCIO,"Ofs Credit Company, Inc."
+8948,736772,CCNEP,Cnb Financial Corp/Pa
+8949,1342936,AVOID,"Advanced Voice Recognition Systems, Inc"
 8950,1434389,UNSS,"Universal Solar Technology, Inc."
+8951,895126,CHKEL,Chesapeake Energy Corp
+8952,895126,CHKEW,Chesapeake Energy Corp
+8953,895126,CHKEZ,Chesapeake Energy Corp
 8954,1479247,CPER,United States Commodity Index Funds Trust
+8955,1479247,USCI,United States Commodity Index Funds Trust
+8956,1841800,NOGNW,"Nogin, Inc."
+8957,1025835,EFSCP,Enterprise Financial Services Corp
+8958,72573,MOVAA,Movado Group Inc
+8959,1947244,USGOW,U.S. Goldmining Inc.
+8960,1899830,PERF-WT,Perfect Corp.
 8961,1848672,GDLG,Glidelogic Corp.
+8962,1593773,AMJT,Amj Global Technology
+8963,1809196,IMTXW,Immatics N.V.
+8964,1855693,FICVU,Frontier Investment Corp
+8965,1855693,FICVW,Frontier Investment Corp
+8966,1823652,EVEX-WT,"Eve Holding, Inc."
+8967,1912582,FLFVR,Feutune Light Acquisition Corp
+8968,1912582,FLFVU,Feutune Light Acquisition Corp
+8969,1912582,FLFVW,Feutune Light Acquisition Corp
+8970,88948,SENEM,Seneca Foods Corp
+8971,88948,SENEL,Seneca Foods Corp
+8972,1345126,CODI-PC,Compass Diversified Holdings
+8973,1835972,ARRWU,Arrowroot Acquisition Corp.
+8974,1835972,ARRWW,Arrowroot Acquisition Corp.
+8975,1813658,TMPOW,"Tempo Automation Holdings, Inc."
+8976,1547546,LFT-PA,"Lument Finance Trust, Inc."
+8977,1631596,KREF-PA,Kkr Real Estate Finance Trust Inc.
+8978,19617,JPM-PJ,Jpmorgan Chase & Co
+8979,19617,JPM-PK,Jpmorgan Chase & Co
+8980,19617,JPM-PL,Jpmorgan Chase & Co
+8981,19617,JPM-PM,Jpmorgan Chase & Co
+8982,1115055,PNFPP,Pinnacle Financial Partners Inc
 8983,1415311,AGQ,Proshares Trust Ii
+8984,1415311,BOIL,Proshares Trust Ii
+8985,1415311,EUO,Proshares Trust Ii
+8986,1415311,GLL,Proshares Trust Ii
+8987,1415311,VIXM,Proshares Trust Ii
+8988,1415311,VIXY,Proshares Trust Ii
+8989,1415311,YCL,Proshares Trust Ii
+8990,1415311,YCS,Proshares Trust Ii
+8991,1415311,ZSL,Proshares Trust Ii
+8992,1415311,SVXY,Proshares Trust Ii
+8993,1415311,UCO,Proshares Trust Ii
+8994,1415311,UGL,Proshares Trust Ii
+8995,1415311,ULE,Proshares Trust Ii
+8996,1415311,UVXY,Proshares Trust Ii
+8997,1415311,KOLD,Proshares Trust Ii
+8998,1415311,SCO,Proshares Trust Ii
 8999,1919182,EBFI,"Eco Bright Future, Inc."
+9000,1414767,NCPLW,Netcapital Inc.
+9001,1831006,BLUA-UN,Blueriver Acquisition Corp.
+9002,1831006,BLUA-WT,Blueriver Acquisition Corp.
+9003,1838814,JUN-UN,Juniper Ii Corp.
+9004,1838814,JUN-WT,Juniper Ii Corp.
+9005,1874074,MMVWW,Multimetaverse Holdings Ltd
+9006,1848323,LOCC-WT,Live Oak Crestview Climate Acquisition Corp.
+9007,1848323,LOCC-UN,Live Oak Crestview Climate Acquisition Corp.
+9008,1876716,ASCBR,Aspac Ii Acquisition Corp.
+9009,1876716,ASCBU,Aspac Ii Acquisition Corp.
+9010,1876716,ASCBW,Aspac Ii Acquisition Corp.
+9011,1633336,FCRX,"Crescent Capital Bdc, Inc."
 9012,1822372,SSRT,Streetex Corp.
+9013,1546066,PBNAF,Pembina Pipeline Corp
+9014,91576,KEY-PL,Keycorp /New/
+9015,1546066,PMBPF,Pembina Pipeline Corp
+9016,1546066,PMMBF,Pembina Pipeline Corp
+9017,1546066,PPLAF,Pembina Pipeline Corp
+9018,1423689,AGNCL,Agnc Investment Corp.
+9019,1423689,AGNCO,Agnc Investment Corp.
+9020,1423689,AGNCP,Agnc Investment Corp.
+9021,1685040,BHFAM,"Brighthouse Financial, Inc."
+9022,1685040,BHFAN,"Brighthouse Financial, Inc."
+9023,1685040,BHFAO,"Brighthouse Financial, Inc."
+9024,320335,GL-PD,Globe Life Inc.
+9025,310522,FNMAP,Federal National Mortgage Association Fannie Mae
+9026,896429,CTLPP,"Cantaloupe, Inc."
+9027,1840199,WALDW,Waldencast Plc
+9028,1822993,JXN-PA,Jackson Financial Inc.
+9029,19617,AMJ,Jpmorgan Chase & Co
+9030,1464343,ATLCL,Atlanticus Holdings Corp
+9031,1464343,ATLCP,Atlanticus Holdings Corp
+9032,1709682,CTOS-WT,"Custom Truck One Source, Inc."
+9033,1879248,ADSEW,Ads-Tec Energy Public Ltd Co
+9034,1845123,IVCPU,Swiftmerge Acquisition Corp.
+9035,1845123,IVCPW,Swiftmerge Acquisition Corp.
+9036,1847846,EUDAW,Euda Health Holdings Ltd
+9037,1640043,PXSAP,Pyxis Tankers Inc.
+9038,1640043,PXSAW,Pyxis Tankers Inc.
+9039,1832511,PIIIW,P3 Health Partners Inc.
+9040,1864531,DHACU,Digital Health Acquisition Corp.
+9041,1864531,DHACW,Digital Health Acquisition Corp.
+9042,1842556,HNRA-WT,Hnr Acquisition Corp.
+9043,1785424,KPLTW,"Katapult Holdings, Inc."
+9044,1898416,ALVOW,Alvotech
+9045,1834026,GROY-WT,Gold Royalty Corp.
+9046,1907223,RWODR,Redwoods Acquisition Corp.
+9047,1907223,RWODU,Redwoods Acquisition Corp.
+9048,1907223,RWODW,Redwoods Acquisition Corp.
+9049,1863990,SMAPW,Sportsmap Tech Acquisition Corp.
+9050,1863990,SMAPU,Sportsmap Tech Acquisition Corp.
+9051,1830033,PCTTU,"Purecycle Technologies, Inc."
+9052,1830033,PCTTW,"Purecycle Technologies, Inc."
+9053,1357671,CRTDW,"Creatd, Inc."
+9054,1676047,NTRBW,Nutriband Inc.
 9055,81023,PNMXO,Public Service Co Of New Mexico
+9056,1678130,OPP-PA,"Rivernorth/Doubleline Strategic Opportunity Fund, Inc."
+9057,1678130,OPP-PB,"Rivernorth/Doubleline Strategic Opportunity Fund, Inc."
 9058,1873213,BRWC,Birdie Win Corp
+9059,1404912,KKR-PC,Kkr & Co. Inc.
+9060,1404912,KKRS,Kkr & Co. Inc.
 9061,1610940,BDRY,Etf Managers Group Commodity Trust I
+9062,1610940,BWET,Etf Managers Group Commodity Trust I
+9063,1849380,DKDCU,Data Knights Acquisition Corp.
+9064,1849380,DKDCW,Data Knights Acquisition Corp.
+9065,1922858,EFHTR,Ef Hutton Acquisition Corp I
+9066,1922858,EFHTW,Ef Hutton Acquisition Corp I
+9067,1883984,CLINR,Clean Earth Acquisitions Corp.
+9068,1883984,CLINU,Clean Earth Acquisitions Corp.
+9069,1883984,CLINW,Clean Earth Acquisitions Corp.
 9070,1501729,FSEN,Fs Energy & Power Fund
+9071,1860663,MTRYU,Monterey Innovation Acquisition Corp
+9072,1860663,MTRYW,Monterey Innovation Acquisition Corp
+9073,1869673,BACAW,Berenson Acquisition Corp. I
+9074,1793229,MPLN-WT,Multiplan Corp
+9075,794685,GAB-PK,Gabelli Equity Trust Inc
+9076,1704292,ZAILF,Zai Lab Ltd
+9077,1846084,JETBF,Global Crossing Airlines Group Inc.
+9078,18349,SNV-PE,Synovus Financial Corp
+9079,36966,FHN-PB,First Horizon Corp
+9080,36966,FHN-PC,First Horizon Corp
+9081,36966,FHN-PD,First Horizon Corp
+9082,36966,FHN-PE,First Horizon Corp
+9083,36966,FHN-PF,First Horizon Corp
+9084,1811063,NUVB-WT,Nuvation Bio Inc.
+9085,1857086,DMAQR,Deep Medicine Acquisition Corp.
+9086,1281761,RF-PE,Regions Financial Corp
+9087,1159508,AGATF,Deutsche Bank Aktiengesellschaft
+9088,1159508,DEENF,Deutsche Bank Aktiengesellschaft
+9089,1159508,ADZCF,Deutsche Bank Aktiengesellschaft
+9090,1159508,OLOXF,Deutsche Bank Aktiengesellschaft
+9091,1159508,DGP,Deutsche Bank Aktiengesellschaft
+9092,1159508,DGZ,Deutsche Bank Aktiengesellschaft
+9093,1159508,DZZ,Deutsche Bank Aktiengesellschaft
+9094,1860514,USCTU,Roth Ch Acquisition Co.
+9095,1860514,USCTW,Roth Ch Acquisition Co.
 9096,1852039,FILG,Grayscale Filecoin Trust (Fil)
+9097,1844419,MAQCU,Maquia Capital Acquisition Corp
+9098,1844419,MAQCW,Maquia Capital Acquisition Corp
+9099,1839824,FZT-UN,Fast Acquisition Corp. Ii
+9100,1839824,FZT-WT,Fast Acquisition Corp. Ii
+9101,1865111,ALSAR,Alpha Star Acquisition Corp
+9102,1865111,ALSAU,Alpha Star Acquisition Corp
+9103,1865111,ALSAW,Alpha Star Acquisition Corp
+9104,17313,CSWCZ,Capital Southwest Corp
+9105,1438893,GNT-PA,"Gamco Natural Resources, Gold & Income Trust"
+9106,1937891,ATMVR,Alphavest Acquisition Corp.
+9107,1937891,ATMVU,Alphavest Acquisition Corp.
+9108,1847345,PWUPU,Powerup Acquisition Corp.
+9109,1847345,PWUPW,Powerup Acquisition Corp.
+9110,1843100,SAMAU,Schultze Special Purpose Acquisition Corp. Ii
+9111,1843100,SAMAW,Schultze Special Purpose Acquisition Corp. Ii
+9112,1835378,CTV-WT,Innovid Corp.
+9113,1462223,RCRTW,"Recruiter.Com Group, Inc."
+9114,1865701,KYCHU,Keyarch Acquisition Corp
+9115,1865701,KYCHW,Keyarch Acquisition Corp
+9116,1970622,IPXXW,Inflection Point Acquisition Corp. Ii
+9117,1970622,IPXXU,Inflection Point Acquisition Corp. Ii
+9118,1819516,WSUPW,Wheels Up Experience Inc.
+9119,1881462,SHAP-WT,Spree Acquisition Corp. 1 Ltd
+9120,1881462,SHAP-UN,Spree Acquisition Corp. 1 Ltd
+9121,1725134,DMSIW,"Digital Media Solutions, Inc."
+9122,1770141,UPH-WT,"Uphealth, Inc."
+9123,1859035,MCAGR,Mountain Crest Acquisition Corp. V
+9124,1859035,MCAGU,Mountain Crest Acquisition Corp. V
+9125,1828248,CVII-UN,Churchill Capital Corp Vii
+9126,1828248,CVII-WT,Churchill Capital Corp Vii
+9127,1865701,KYCHR,Keyarch Acquisition Corp
+9128,1838162,SLAMU,Slam Corp.
+9129,1838162,SLAMW,Slam Corp.
+9130,1946021,HSPOR,Horizon Space Acquisition I Corp.
+9131,1946021,HSPOU,Horizon Space Acquisition I Corp.
+9132,1946021,HSPOW,Horizon Space Acquisition I Corp.
 9133,1795938,CEAI,Creations Inc
+9134,1690080,ATNFW,180 Life Sciences Corp.
+9135,1281895,RCKTW,"Rocket Pharmaceuticals, Inc."
+9136,1946399,YSBPW,"Ys Biopharma Co., Ltd."
+9137,61398,TELZ,Tellurian Inc. /De/
+9138,1894210,QOMOR,Qomolangma Acquisition Corp.
+9139,1894210,QOMOU,Qomolangma Acquisition Corp.
+9140,1894210,QOMOW,Qomolangma Acquisition Corp.
+9141,1895144,GODNU,Golden Star Acquisition Corp
+9142,1895144,GODNR,Golden Star Acquisition Corp
+9143,1956055,BUJAW,Bukit Jalil Global Acquisition 1 Ltd.
+9144,1956055,BUJAU,Bukit Jalil Global Acquisition 1 Ltd.
+9145,1956055,BUJAR,Bukit Jalil Global Acquisition 1 Ltd.
+9146,1839610,IPVF-WT,Interprivate Iii Financial Partners Inc.
+9147,1839610,IPVF-UN,Interprivate Iii Financial Partners Inc.
+9148,1824893,SRZNW,"Surrozen, Inc./De"
 9149,1788756,PFTY,"Parallel Flight Technologies, Inc."
+9150,1776661,ADVWW,Advantage Solutions Inc.
+9151,1455626,RSGPY,Electrocomponents Plc / Adr
+9152,1841330,KTTAW,Pasithea Therapeutics Corp.
+9153,892553,GTLS-PB,Chart Industries Inc
+9154,1601712,SYF-PA,Synchrony Financial
+9155,1826011,VIIAU,7Gc & Co. Holdings Inc.
+9156,1826011,VIIAW,7Gc & Co. Holdings Inc.
+9157,1807846,ML-WT,Moneylion Inc.
+9158,1400810,HCIIP,"Hci Group, Inc."
+9159,1831978,NBSTU,Newbury Street Acquisition Corp
+9160,1831978,NBSTW,Newbury Street Acquisition Corp
+9161,1091748,ARGO-PA,"Argo Group International Holdings, Ltd."
+9162,66570,MNESP,Msa Safety Inc
+9163,1091748,ARGD,"Argo Group International Holdings, Ltd."
+9164,1883788,ATAKR,Aurora Technology Acquisition Corp.
+9165,1883788,ATAKU,Aurora Technology Acquisition Corp.
+9166,1883788,ATAKW,Aurora Technology Acquisition Corp.
+9167,1819175,PIAI-UN,Prime Impact Acquisition I
+9168,1819175,PIAI-WT,Prime Impact Acquisition I
+9169,1865200,PORT-UN,Southport Acquisition Corp
+9170,1865200,PORT-WT,Southport Acquisition Corp
+9171,1840317,PLMIW,Plum Acquisition Corp. I
+9172,1840317,PLMIU,Plum Acquisition Corp. I
+9173,1863181,HPLTU,Home Plate Acquisition Corp
+9174,1863181,HPLTW,Home Plate Acquisition Corp
+9175,1834518,NSTB-UN,Northern Star Investment Corp. Ii
+9176,1834518,NSTB-WT,Northern Star Investment Corp. Ii
+9177,1875493,CSLMR,Cslm Acquisition Corp.
+9178,1875493,CSLMU,Cslm Acquisition Corp.
+9179,1901336,ALCYW,Alchemy Investments Acquisition Corp 1
+9180,1901336,ALCYU,Alchemy Investments Acquisition Corp 1
+9181,1875493,CSLMW,Cslm Acquisition Corp.
+9182,1851266,LFACU,Lf Capital Acquisition Corp. Ii
+9183,1851266,LFACW,Lf Capital Acquisition Corp. Ii
+9184,1870129,ROSEU,Rose Hill Acquisition Corp
+9185,1870129,ROSEW,Rose Hill Acquisition Corp
+9186,1852736,TRIS-UN,Tristar Acquisition I Corp.
+9187,1852736,TRIS-WT,Tristar Acquisition I Corp.
+9188,1849294,FRLAU,Fortune Rise Acquisition Corp
+9189,1849294,FRLAW,Fortune Rise Acquisition Corp
+9190,1853047,HUDAR,Hudson Acquisition I Corp.
+9191,1853047,HUDAU,Hudson Acquisition I Corp.
+9192,1282957,GLU-PA,Gabelli Global Utility & Income Trust
+9193,1497645,INN-PF,"Summit Hotel Properties, Inc."
+9194,1856161,PRLHU,Pearl Holdings Acquisition Corp
+9195,1856161,PRLHW,Pearl Holdings Acquisition Corp
+9196,1882464,MSSAW,Metal Sky Star Acquisition Corp
+9197,1862327,NFNT-UN,Infinite Acquisition Corp.
+9198,1862327,NFNT-WT,Infinite Acquisition Corp.
+9199,1975218,NETDW,Nabors Energy Transition Corp. Ii
+9200,1975218,NETDU,Nabors Energy Transition Corp. Ii
+9201,1882464,MSSAR,Metal Sky Star Acquisition Corp
+9202,1882464,MSSAU,Metal Sky Star Acquisition Corp
+9203,1848756,PHYT-UN,Pyrophyte Acquisition Corp.
+9204,1848756,PHYT-WT,Pyrophyte Acquisition Corp.
+9205,1590364,FTAIM,Ftai Aviation Ltd.
+9206,1590364,FTAIN,Ftai Aviation Ltd.
+9207,1590364,FTAIO,Ftai Aviation Ltd.
+9208,1590364,FTAIP,Ftai Aviation Ltd.
+9209,1883814,SLND-WT,"Southland Holdings, Inc."
+9210,1874315,SATLW,Satellogic Inc.
+9211,1809987,MIR-WT,"Mirion Technologies, Inc."
+9212,1754836,EICA,Eagle Point Income Co Inc.
+9213,1754836,EICB,Eagle Point Income Co Inc.
+9214,1604174,ECCC,Eagle Point Credit Co Inc.
+9215,1604174,ECC-PD,Eagle Point Credit Co Inc.
+9216,1604174,ECCV,Eagle Point Credit Co Inc.
+9217,1604174,ECCW,Eagle Point Credit Co Inc.
+9218,1729944,IMACW,"Imac Holdings, Inc."
+9219,1419951,DTSTW,Data Storage Corp
+9220,1885444,KNSW-UN,Knightswan Acquisition Corp
+9221,1885444,KNSW-WT,Knightswan Acquisition Corp
+9222,1828972,BZFDW,"Buzzfeed, Inc."
+9223,1839175,MBAC-UN,M3-Brigade Acquisition Ii Corp.
+9224,1839175,MBAC-WT,M3-Brigade Acquisition Ii Corp.
+9225,1710680,HFRO-PA,Highland Opportunities & Income Fund
 9226,1933644,MDLVY,"Medlive Technology Co., Ltd./Adr"
+9227,1861121,EVE-UN,Eve Mobility Acquisition Corp
+9228,1861121,EVE-WT,Eve Mobility Acquisition Corp
 9229,1852536,ITOR,"Intorio, Corp."
+9230,1131312,ZNOGW,Zion Oil & Gas Inc
+9231,1816613,MKFG-WT,Markforged Holding Corp
+9232,1851909,CDAQU,Compass Digital Acquisition Corp.
+9233,1851909,CDAQW,Compass Digital Acquisition Corp.
+9234,1844507,AVHIU,Achari Ventures Holdings Corp. I
+9235,1844507,AVHIW,Achari Ventures Holdings Corp. I
+9236,46195,BOH-PA,Bank Of Hawaii Corp
+9237,1788028,JSPRW,"Jasper Therapeutics, Inc."
+9238,1844389,ACBAU,Ace Global Business Acquisition Ltd
+9239,1844389,ACBAW,Ace Global Business Acquisition Ltd
+9240,1815086,BTWNU,Bridgetown Holdings Ltd
+9241,1815086,BTWNW,Bridgetown Holdings Ltd
+9242,1854458,NETC-UN,Nabors Energy Transition Corp.
+9243,1854458,NETC-WT,Nabors Energy Transition Corp.
+9244,1915328,ISRLU,Israel Acquisitions Corp
+9245,1915328,ISRLW,Israel Acquisitions Corp
+9246,1852061,GAQ-UN,Generation Asia I Acquisition Ltd
+9247,1852061,GAQ-WT,Generation Asia I Acquisition Ltd
+9248,1918661,ESHAR,Esh Acquisition Corp.
+9249,1819848,JOBY-WT,"Joby Aviation, Inc."
+9250,1816581,OUST-WT,"Ouster, Inc."
+9251,1816581,OUST-WTA,"Ouster, Inc."
+9252,1795589,KCLHF,Kingsoft Cloud Holdings Ltd
+9253,1821159,EVGOW,Evgo Inc.
+9254,1377936,SAT,Saratoga Investment Corp.
+9255,1377936,SAY,Saratoga Investment Corp.
+9256,1377936,SAZ,Saratoga Investment Corp.
+9257,1377936,SAJ,Saratoga Investment Corp.
 9258,1748680,OWSCX,1Ws Credit Income Fund
+9259,1820875,CXAIW,Cxapp Inc.
+9260,1859690,ARQQW,Arqit Quantum Inc.
+9261,1842939,CTCXW,Carmell Corp
+9262,1873441,BCSAU,Blockchain Coinvestors Acquisition Corp. I
+9263,1873441,BCSAW,Blockchain Coinvestors Acquisition Corp. I
+9264,1879221,UTAAU,Uta Acquisition Corp
+9265,1859686,SBXC-UN,Silverbox Corp Iii
+9266,1879221,UTAWF,Uta Acquisition Corp
+9267,1843477,SVIIR,Spring Valley Acquisition Corp. Ii
+9268,1859686,SBXC-WT,Silverbox Corp Iii
+9269,1378701,GDL-PC,Gdl Fund
+9270,1930313,PTWOW,"Pono Capital Two, Inc."
+9271,1930313,PTWOU,"Pono Capital Two, Inc."
+9272,1818089,BOAC-UN,Bluescape Opportunities Acquisition Corp.
+9273,1818089,BOAC-WT,Bluescape Opportunities Acquisition Corp.
+9274,1843477,SVIIU,Spring Valley Acquisition Corp. Ii
+9275,1843477,SVIIW,Spring Valley Acquisition Corp. Ii
+9276,1947559,ANZGF,Anz Group Holdings Limited/Adr
+9277,861967,WOLTF,Wolters Kluwer N V /Fi
+9278,72971,WFC-PD,Wells Fargo & Company/Mn
+9279,72971,WFCNP,Wells Fargo & Company/Mn
+9280,72971,WFC-PA,Wells Fargo & Company/Mn
+9281,72971,WFC-PZ,Wells Fargo & Company/Mn
+9282,1620179,XELAP,"Exela Technologies, Inc."
+9283,1837607,AEON-WT,"Aeon Biopharma, Inc."
+9284,1839519,CFFSU,Cf Acquisition Corp. Vii
+9285,1839519,CFFSW,Cf Acquisition Corp. Vii
+9286,1838831,DISAU,Disruptive Acquisition Corp I
+9287,1838831,DISAW,Disruptive Acquisition Corp I
+9288,1835416,MACAU,Moringa Acquisition Corp
+9289,1870778,OHAAU,Opy Acquisition Corp. I
+9290,1870778,OHAAW,Opy Acquisition Corp. I
+9291,1835416,MACAW,Moringa Acquisition Corp
 9292,1535778,MSCF,"Msc Income Fund, Inc."
+9293,1487428,HTFB,Horizon Technology Finance Corp
+9294,1487428,HTFC,Horizon Technology Finance Corp
+9295,1859639,CZOWF,Cazoo Group Ltd
+9296,1722438,DOMAW,"Doma Holdings, Inc."
+9297,1110646,NETTF,"Netease, Inc."
+9298,1086303,HYBTD,Heyu Biological Technology Corp
+9299,798949,UNTCW,Unit Corp
+9300,36270,MTB-PH,M&T Bank Corp
+9301,1372514,KPHMW,Kiora Pharmaceuticals Inc
+9302,1609253,CRCQW,California Resources Corp
+9303,1855351,SAGAR,Sagaliam Acquisition Corp
+9304,1855351,SAGAU,Sagaliam Acquisition Corp
+9305,1832765,EACPU,Edify Acquisition Corp.
+9306,1832765,EACPW,Edify Acquisition Corp.
+9307,1675033,GECCZ,Great Elm Capital Corp.
+9308,1823857,VHAQ-RT,Viveon Health Acquisition Corp.
+9309,1823857,VHAQ-UN,Viveon Health Acquisition Corp.
+9310,1823857,VHAQ-WT,Viveon Health Acquisition Corp.
 9311,1918694,MEDE,Medies
+9312,1675033,GECCM,Great Elm Capital Corp.
+9313,1675033,GECCN,Great Elm Capital Corp.
+9314,1675033,GECCO,Great Elm Capital Corp.
+9315,1671584,APVTW,Aptevo Therapeutics Inc.
+9316,1820190,SCLXW,Scilex Holding Co
+9317,46207,HAWEM,Hawaiian Electric Co Inc
+9318,1526113,GNL-PE,"Global Net Lease, Inc."
+9319,1526113,GNL-PD,"Global Net Lease, Inc."
+9320,1526113,GNL-PB,"Global Net Lease, Inc."
+9321,1514281,MITT-PC,"Ag Mortgage Investment Trust, Inc."
+9322,1846809,OTECU,Oceantech Acquisitions I Corp.
+9323,1846809,OTECW,Oceantech Acquisitions I Corp.
+9324,1869974,OCEAW,"Ocean Biomedical, Inc."
+9325,1934064,OSAAW,"Prosomnus, Inc."
+9326,1840292,HLGN-WT,"Heliogen, Inc."
+9327,46207,HAWLI,Hawaiian Electric Co Inc
+9328,46207,HAWLL,Hawaiian Electric Co Inc
+9329,46207,HAWLM,Hawaiian Electric Co Inc
+9330,1835814,NSTD-WT,Northern Star Investment Corp. Iv
+9331,1841125,GAMCU,Golden Arrow Merger Corp.
+9332,1841125,GAMCW,Golden Arrow Merger Corp.
+9333,1555812,SMKUF,Siam Makro Public Co Limited/Adr
+9334,1759186,COEPW,"Coeptis Therapeutics Holdings, Inc."
+9335,1806347,WESTW,Westrock Coffee Co
+9336,719739,SIVPQ,Svb Financial Group
+9337,1849548,ONYXU,Onyx Acquisition Co. I
+9338,1849548,ONYXW,Onyx Acquisition Co. I
+9339,1838000,SWSSU,Clean Energy Special Situations Corp.
+9340,1838000,SWSSW,Clean Energy Special Situations Corp.
+9341,1576018,SPNT-PB,Siriuspoint Ltd
+9342,1576018,SSPFF,Siriuspoint Ltd
 9343,1879166,CVCBY,Cvc Brasil Operadora E Agencia De Viagens S.A./Adr
 9344,1951378,QLUNF,Qilun Group Inc.
+9345,1818382,HUMAW,"Humacyte, Inc."
+9346,1818331,WGSWW,Genedx Holdings Corp.
+9347,1569650,OZKAP,Bank Ozk
+9348,1825249,CFIVU,Cf Acquisition Corp. Iv
+9349,1825249,CFIVW,Cf Acquisition Corp. Iv
+9350,1832136,OSI-UN,Osiris Acquisition Corp.
+9351,1832136,OSI-WT,Osiris Acquisition Corp.
+9352,70858,BAC-PM,Bank Of America Corp /De/
+9353,70858,BAC-PN,Bank Of America Corp /De/
+9354,70858,BAC-PO,Bank Of America Corp /De/
+9355,70858,BAC-PP,Bank Of America Corp /De/
+9356,70858,BAC-PQ,Bank Of America Corp /De/
+9357,846617,DCOMP,"Dime Community Bancshares, Inc. /Ny/"
+9358,1456772,OPINL,Office Properties Income Trust
+9359,1801417,BYNOU,Bynordic Acquisition Corp
+9360,1801417,BYNOW,Bynordic Acquisition Corp
+9361,1857855,FNVTU,Finnovate Acquisition Corp.
+9362,1857855,FNVTW,Finnovate Acquisition Corp.
+9363,1854480,FIACU,Focus Impact Acquisition Corp.
+9364,1854480,FIACW,Focus Impact Acquisition Corp.
+9365,813828,PARAP,Paramount Global
+9366,1004702,OCFCP,Oceanfirst Financial Corp
+9367,70858,MER-PK,Bank Of America Corp /De/
+9368,70858,BAC-PS,Bank Of America Corp /De/
+9369,70858,BACRP,Bank Of America Corp /De/
+9370,1777921,AVPTW,"Avepoint, Inc."
 9371,1571804,GVBT,Green Vision Biotechnology Corp.
+9372,727273,CDZIP,Cadiz Inc
+9373,1862935,IFIN-WT,Infint Acquisition Corp
+9374,1501697,XFOWW,"X4 Pharmaceuticals, Inc"
+9375,1501697,XFORW,"X4 Pharmaceuticals, Inc"
+9376,1862935,IFIN-UN,Infint Acquisition Corp
+9377,1801602,SBIGW,"Springbig Holdings, Inc."
+9378,1145255,HNNAZ,Hennessy Advisors Inc
+9379,1274173,JUHDF,Janus Henderson Group Plc
+9380,1848898,VCXAU,10X Capital Venture Acquisition Corp. Ii
+9381,1848898,VCXAW,10X Capital Venture Acquisition Corp. Ii
 9382,1690012,ICRL,"Inpoint Commercial Real Estate Income, Inc."
+9383,1690012,ICRP,"Inpoint Commercial Real Estate Income, Inc."
+9384,1562528,FBRT-PE,"Franklin Bsp Realty Trust, Inc."
+9385,1614806,AJXA,Great Ajax Corp.
+9386,1144800,TSLTF,Transalta Corp
+9387,1855467,CLAYU,Chavant Capital Acquisition Corp.
+9388,1855467,CLAYW,Chavant Capital Acquisition Corp.
+9389,1718224,BTBDW,"Bt Brands, Inc."
+9390,1552000,MPLXP,Mplx Lp
+9391,1131554,SNCRL,Synchronoss Technologies Inc
+9392,1298946,DRH-PA,Diamondrock Hospitality Co
+9393,1814215,BURU-WT,"Nuburu, Inc."
+9394,68622,CTDD,Qwest Corp
+9395,1224608,CNO-PA,"Cno Financial Group, Inc."
+9396,1553788,SBEV-WT,"Splash Beverage Group, Inc."
+9397,314203,MQMNW,Mcewen Mining Inc.
+9398,1889823,KWESW,Kwesst Micro Systems Inc.
+9399,1817232,DUNEU,Dune Acquisition Corp
+9400,1817232,DUNEW,Dune Acquisition Corp
+9401,1070050,APCXW,Apptech Payments Corp.
+9402,1043219,NLY-PI,Annaly Capital Management Inc
+9403,1775734,BENFW,Beneficient
+9404,1774675,SKIL-WT,Skillsoft Corp.
 9405,1575311,DTLAP,Brookfield Dtla Fund Office Trust Investor Inc.
+9406,18654,AILIO,Ameren Illinois Co
+9407,18654,AILIP,Ameren Illinois Co
+9408,1840780,LOCL-WT,Local Bounti Corporation/De
+9409,1760903,JUPWW,"Jupiter Wellness, Inc."
 9410,1336364,GIGGF,Giga Metals Corp
+9411,1852353,DC-WT,Dakota Gold Corp.
+9412,1840225,FSNB-UN,Fusion Acquisition Corp. Ii
+9413,1896212,MURFU,Murphy Canyon Acquisition Corp.
+9414,1896212,MURFW,Murphy Canyon Acquisition Corp.
+9415,1737995,STSSW,Sharps Technology Inc.
+9416,1760689,MVSTW,"Microvast Holdings, Inc."
+9417,1744494,ADNWW,"Advent Technologies Holdings, Inc."
+9418,1826671,NIRWW,"Near Intelligence, Inc."
+9419,1847513,TRONU,Corner Growth Acquisition Corp. 2
+9420,1847513,TRONW,Corner Growth Acquisition Corp. 2
+9421,1936255,FORLU,Four Leaf Acquisition Corp
+9422,1930021,PTHRU,"Pono Capital Three, Inc."
+9423,1936255,FORLW,Four Leaf Acquisition Corp
+9424,1930021,PTHRW,"Pono Capital Three, Inc."
+9425,1821424,UKOMW,Ucommune International Ltd
+9426,1964979,ALUR-WT,"Allurion Technologies, Inc."
+9427,1721484,LGVNR,Longeveron Inc.
+9428,1004724,RHEPB,"Regional Health Properties, Inc"
+9429,1786108,TRINL,Trinity Capital Inc.
+9430,354518,EBCOF,Ebara Corp /Adr/
+9431,1644771,RMPL-P,"Rivernorth Capital & Income Fund, Inc."
+9432,1841209,HOLOW,Microcloud Hologram Inc.
+9433,1881487,ACDCW,Profrac Holding Corp.
+9434,1621221,ATLEW,"Artelo Biosciences, Inc."
 9435,1680935,HHEGF,Huahui Education Group Ltd
+9436,1446457,BLIDF,Boliden Ab
+9437,1970509,HYAC-UN,Haymaker Acquisition Corp. 4
+9438,1889112,RENEU,Cartesian Growth Corp Ii
+9439,1889112,RENEW,Cartesian Growth Corp Ii
+9440,1847891,ACRO-UN,Acropolis Infrastructure Acquisition Corp.
+9441,1847891,ACRO-WT,Acropolis Infrastructure Acquisition Corp.
+9442,1929231,PLTNU,Plutonian Acquisition Corp.
+9443,1929231,PLTNW,Plutonian Acquisition Corp.
+9444,1929231,PLTNR,Plutonian Acquisition Corp.
+9445,1845149,CBRGU,Chain Bridge I
+9446,1845149,CBRGF,Chain Bridge I
+9447,1254699,QVCC,Qvc Inc
+9448,1713539,KXINW,Kaixin Auto Holdings
+9449,1855168,WRAC-UN,Williams Rowland Acquisition Corp.
+9450,1855168,WRACW,Williams Rowland Acquisition Corp.
+9451,1556593,RITM-PD,Rithm Capital Corp.
+9452,1556593,RITM-PA,Rithm Capital Corp.
+9453,1556593,RITM-PB,Rithm Capital Corp.
+9454,1556593,RITM-PC,Rithm Capital Corp.
 9455,1588272,NXPT,"Nexpoint Capital, Inc."
 9456,1730346,CHRB,"Charah Solutions, Inc."
+9457,1946563,SXTPW,"60 Degrees Pharmaceuticals, Inc."
+9458,1712762,BIAFW,"Bioaffinity Technologies, Inc."
+9459,1831481,FLME-UN,Flame Acquisition Corp.
+9460,1831481,FLME-WT,Flame Acquisition Corp.
+9461,1863460,PPHPR,Php Ventures Acquisition Corp.
+9462,1863460,PPHPU,Php Ventures Acquisition Corp.
+9463,1863460,PPHPW,Php Ventures Acquisition Corp.
+9464,1679063,CSSEL,"Chicken Soup For The Soul Entertainment, Inc."
+9465,1679063,CSSEN,"Chicken Soup For The Soul Entertainment, Inc."
+9466,1468492,HSCSW,"Heart Test Laboratories, Inc."
+9467,1848861,HAIAU,Healthcare Ai Acquisition Corp.
+9468,1848861,HAIAW,Healthcare Ai Acquisition Corp.
+9469,1679063,CSSEZ,"Chicken Soup For The Soul Entertainment, Inc."
+9470,1828105,HIPO-WT,Hippo Holdings Inc.
+9471,1807765,PMVCW,Pmv Consumer Acquisition Corp.
+9472,1892922,MARXR,Mars Acquisition Corp.
+9473,1892922,MARXU,Mars Acquisition Corp.
+9474,1857803,DPCSU,Dp Cap Acquisition Corp I
+9475,1857803,DPCSW,Dp Cap Acquisition Corp I
+9476,1885461,SUAC-UN,Shoulderup Technology Acquisition Corp.
+9477,1885461,SUAC-WT,Shoulderup Technology Acquisition Corp.
+9478,1844642,LCAHU,"Landcadia Holdings Iv, Inc."
+9479,1844642,LCAHW,"Landcadia Holdings Iv, Inc."
+9480,1175483,DSHKN,Drive Shack Inc.
+9481,1175483,DSHKO,Drive Shack Inc.
+9482,1175483,DSHKP,Drive Shack Inc.
+9483,1852019,IXAQU,Ix Acquisition Corp.
+9484,1852019,IXAQW,Ix Acquisition Corp.
+9485,1859807,NVACW,Northview Acquisition Corp
+9486,1859807,NVACR,Northview Acquisition Corp
+9487,92122,SOJD,Southern Co
+9488,92122,SOJE,Southern Co
+9489,1811109,AUVIP,"Applied Uv, Inc."
+9490,1651944,DMTKW,"Dermtech, Inc."
+9491,1827871,ELIQ-WT,"Electriq Power Holdings, Inc."
+9492,886982,GSCE,Goldman Sachs Group Inc
+9493,1812234,CCV-UN,Churchill Capital Corp V
+9494,1812234,CCV-WT,Churchill Capital Corp V
+9495,1831979,GPACU,Global Partner Acquisition Corp Ii
+9496,1831979,GPACW,Global Partner Acquisition Corp Ii
+9497,1843370,BLEUR,Bleuacacia Ltd
+9498,1843370,BLEUU,Bleuacacia Ltd
+9499,1843370,BLEUW,Bleuacacia Ltd
+9500,1606268,VIASP,"Via Renewables, Inc."
+9501,1887673,WLDSW,Wearable Devices Ltd.
+9502,1882078,ARIZR,Arisz Acquisition Corp.
+9503,1882078,ARIZU,Arisz Acquisition Corp.
+9504,1882078,ARIZW,Arisz Acquisition Corp.
+9505,1844817,AACIU,Armada Acquisition Corp. I
+9506,1844817,AACIW,Armada Acquisition Corp. I
+9507,1837929,NPABU,New Providence Acquisition Corp. Ii
+9508,1836100,PUCKU,Goal Acquisitions Corp.
+9509,1836100,PUCKW,Goal Acquisitions Corp.
+9510,1837929,NPABW,New Providence Acquisition Corp. Ii
+9511,1516551,SKYED,"Skye Bioscience, Inc."
+9512,1784851,SHPWW,"Shapeways Holdings, Inc."
+9513,1402328,SBFMW,"Sunshine Biopharma, Inc"
+9514,1826397,AGRIW,Agriforce Growing Systems Ltd.
+9515,1855756,LILMW,Lilium N.V.
+9516,1475260,CVE-WT,Cenovus Energy Inc.
+9517,1475260,CNVEF,Cenovus Energy Inc.
+9518,1475260,CVEPF,Cenovus Energy Inc.
+9519,1718405,HYMCL,Hycroft Mining Holding Corp
+9520,1718405,HYMCW,Hycroft Mining Holding Corp
+9521,1872525,SWAGW,"Stran & Company, Inc."
+9522,1124198,FLRAP,Fluor Corp
+9523,1854795,IRRX-UN,Integrated Rail & Resources Acquisition Corp
+9524,1854795,IRRX-WT,Integrated Rail & Resources Acquisition Corp
+9525,1847241,PEGRU,Project Energy Reimagined Acquisition Corp.
+9526,1847241,PEGRW,Project Energy Reimagined Acquisition Corp.
+9527,1847355,TGAAW,Target Global Acquisition I Corp.
+9528,1847355,TGAAU,Target Global Acquisition I Corp.
+9529,1862463,INAQU,Insight Acquisition Corp. /De
+9530,1862463,INAQW,Insight Acquisition Corp. /De
+9531,1865248,CMCAU,Capitalworks Emerging Markets Acquisition Corp
+9532,1865248,CMCAW,Capitalworks Emerging Markets Acquisition Corp
+9533,1758488,OSWWF,Onespaworld Holdings Ltd
+9534,1802749,ZEV-WT,"Lightning Emotors, Inc."
+9535,1560385,LLYVK,Liberty Media Corp
+9536,1560385,LLYVA,Liberty Media Corp
+9537,1560385,LLYVB,Liberty Media Corp
+9538,1819395,SONDW,Sonder Holdings Inc.
+9539,61004,LGL-WT,Lgl Group Inc
+9540,947484,ACGLN,Arch Capital Group Ltd.
+9541,1512228,NIOBW,Niocorp Developments Ltd
+9542,1825079,VLD-WT,"Velo3D, Inc."
+9543,1862490,DCFCW,Tritium Dcfc Ltd
+9544,1538495,UNOV,"Earth Science Tech, Inc."
+9545,1126956,SRCU,Spire Inc
+9546,1673481,LTRYW,Lottery.Com Inc.
+9547,1784567,HCDIP,"Harbor Custom Development, Inc."
+9548,1784567,HCDIW,"Harbor Custom Development, Inc."
+9549,1784567,HCDIZ,"Harbor Custom Development, Inc."
+9550,1877557,WEL-UN,Integrated Wellness Acquisition Corp
+9551,1877557,WEL-WT,Integrated Wellness Acquisition Corp
+9552,1813756,WEWOW,Wework Inc.
+9553,718940,BCEFF,Bce Inc
+9554,718940,BCEPF,Bce Inc
+9555,718940,BCEXF,Bce Inc
+9556,718940,BCPPF,Bce Inc
+9557,1841425,VGASW,"Verde Clean Fuels, Inc."
+9558,1571283,REXR-PC,"Rexford Industrial Realty, Inc."
+9559,1045450,EPR-PC,Epr Properties
+9560,1045450,EPR-PE,Epr Properties
+9561,1356093,CREXW,"Creative Realities, Inc."
+9562,1708341,AGAEW,Allied Gaming & Entertainment Inc.
+9563,1844224,FREY-WT,Freyr Battery
+9564,1894057,PPYAU,Papaya Growth Opportunity Corp. I
+9565,1894057,PPYAW,Papaya Growth Opportunity Corp. I
+9566,1865191,TGVCU,Tg Venture Acquisition Corp.
+9567,1865191,TGVCW,Tg Venture Acquisition Corp.
+9568,1885998,ROCLU,Roth Ch Acquisition V Co.
+9569,1885998,ROCLW,Roth Ch Acquisition V Co.
+9570,1879297,LGVCU,Lamf Global Ventures Corp. I
+9571,1879297,LGVCW,Lamf Global Ventures Corp. I
+9572,1850502,NFYS-UN,Enphys Acquisition Corp.
+9573,1850502,NFYS-WT,Enphys Acquisition Corp.
+9574,1178727,COMSP,Comsovereign Holding Corp.
+9575,1178727,COMSW,Comsovereign Holding Corp.
+9576,1572957,BGLAF,Biogaia Ab/Adr
+9577,1826889,BODY-WT,"Beachbody Company, Inc."
+9578,1856653,BIOSU,Bioplus Acquisition Corp.
+9579,1856653,BIOSW,Bioplus Acquisition Corp.
+9580,1922097,LANV-WT,Lanvin Group Holdings Ltd
+9581,1836833,PL-WT,Planet Labs Pbc
+9582,1816708,OWLTW,"Owlet, Inc."
+9583,1780312,ASTSW,"Ast Spacemobile, Inc."
+9584,1846975,SEDA-WT,Sdcl Edge Acquisition Corp
+9585,1879851,TMTCU,Tmt Acquisition Corp.
+9586,1886268,SHUAU,Shuaa Partners Acquisition Corp I
+9587,1846975,SEDA-UN,Sdcl Edge Acquisition Corp
+9588,1886268,SHUAW,Shuaa Partners Acquisition Corp I
+9589,1854463,WINVR,Winvest Acquisition Corp.
+9590,1854463,WINVU,Winvest Acquisition Corp.
+9591,1854463,WINVW,Winvest Acquisition Corp.
+9592,1512544,ITTOF,Itochu Techno-Solutions Corporation/Adr
+9593,1335105,LIXTW,"Lixte Biotechnology Holdings, Inc."
+9594,1842566,BYTSU,Byte Acquisition Corp.
+9595,1842566,BYTSW,Byte Acquisition Corp.
+9596,1872812,TCBPW,Tc Biopharm (Holdings) Plc
+9597,1941536,BAERW,"Bridger Aerospace Group Holdings, Inc."
+9598,1692787,ALTMW,Kinetik Holdings Inc.
+9599,1861063,AQUNR,Aquaron Acquisition Corp.
+9600,1861063,AQUNU,Aquaron Acquisition Corp.
+9601,1879851,TMTCR,Tmt Acquisition Corp.
+9602,1848948,VCXB-UN,10X Capital Venture Acquisition Corp. Iii
+9603,1848948,VCXB-WT,10X Capital Venture Acquisition Corp. Iii
+9604,1913210,BRSHW,Bruush Oral Care Inc.
+9605,1853774,MCAFR,Mountain Crest Acquisition Corp. Iv
+9606,1853774,MCAFU,Mountain Crest Acquisition Corp. Iv
 9607,1921332,AZTGY,Aztech Global Ltd./Adr
+9608,1742927,RVPHW,"Reviva Pharmaceuticals Holdings, Inc."
+9609,1000209,MBNKP,Medallion Financial Corp
+9610,1839341,CRZWQ,"Core Scientific, Inc./Tx"
+9611,1845437,NPWR-WT,Net Power Inc.
+9612,1533232,BEPH,Brookfield Renewable Partners L.P.
+9613,1533232,BEPI,Brookfield Renewable Partners L.P.
+9614,1533232,BEP-PA,Brookfield Renewable Partners L.P.
+9615,1533232,BRENF,Brookfield Renewable Partners L.P.
+9616,1805077,EOSEW,"Eos Energy Enterprises, Inc."
+9617,1899287,AMPX-WT,"Amprius Technologies, Inc."
+9618,1004434,MGR,"Affiliated Managers Group, Inc."
+9619,1004434,MGRB,"Affiliated Managers Group, Inc."
+9620,1004434,MGRD,"Affiliated Managers Group, Inc."
+9621,1356115,NXDT-PA,Nexpoint Diversified Real Estate Trust
+9622,1848821,GTACU,Global Technology Acquisition Corp. I
+9623,1848821,GTACW,Global Technology Acquisition Corp. I
+9624,1833498,MDAIW,"Spectral Ai, Inc."
+9625,1833498,RCLFU,"Spectral Ai, Inc."
+9626,1833498,RCLFW,"Spectral Ai, Inc."
+9627,1849058,CLOER,Clover Leaf Capital Corp.
+9628,1849058,CLOEU,Clover Leaf Capital Corp.
+9629,1852016,AEAEU,Altenergy Acquisition Corp
+9630,1852016,AEAEW,Altenergy Acquisition Corp
+9631,1848020,BMAC-UN,Black Mountain Acquisition Corp.
+9632,1848020,BMAC-WT,Black Mountain Acquisition Corp.
+9633,1866838,IGTAR,Inception Growth Acquisition Ltd
+9634,1866838,IGTAU,Inception Growth Acquisition Ltd
+9635,1866838,IGTAW,Inception Growth Acquisition Ltd
+9636,1861541,PGSS-WT,Pegasus Digital Mobility Acquisition Corp.
+9637,1838293,CHAAW,Catcha Investment Corp
+9638,1861541,PGSS-UN,Pegasus Digital Mobility Acquisition Corp.
+9639,1825962,QDROU,Quadro Acquisition One Corp.
+9640,1838359,RGTIW,"Rigetti Computing, Inc."
+9641,1895249,MCACW,Monterey Capital Acquisition Corp
+9642,1895249,MCACR,Monterey Capital Acquisition Corp
+9643,1895249,MCACU,Monterey Capital Acquisition Corp
+9644,1825962,QDROW,Quadro Acquisition One Corp.
+9645,1848437,CITEU,Cartica Acquisition Corp
+9646,1848437,CITEW,Cartica Acquisition Corp
+9647,1838513,GATEU,Marblegate Acquisition Corp.
+9648,1838513,GATEW,Marblegate Acquisition Corp.
+9649,1858351,ICNC-UN,Iconic Sports Acquisition Corp.
+9650,1858351,ICNC-WT,Iconic Sports Acquisition Corp.
+9651,11544,WRB-PF,Berkley W R Corp
+9652,11544,WRB-PG,Berkley W R Corp
+9653,11544,WRB-PH,Berkley W R Corp
+9654,1030475,CHNEY,China Eastern Airlines Corp Ltd
+9655,1822145,PRSTW,Presto Automation Inc.
+9656,1841004,ATAQF,Altimar Acquisition Corp. Iii
+9657,1835817,NSTCU,Northern Star Investment Corp. Iii
+9658,1869141,ACAQ-WT,Athena Consumer Acquisition Corp.
+9659,1901799,BTMWW,Bitcoin Depot Inc.
+9660,1835817,NSTTW,Northern Star Investment Corp. Iii
+9661,1867287,LBBBR,Lakeshore Acquisition Ii Corp.
+9662,1867287,LBBBU,Lakeshore Acquisition Ii Corp.
+9663,1867287,LBBBW,Lakeshore Acquisition Ii Corp.
+9664,1691421,LMND-WT,"Lemonade, Inc."
+9665,1936702,CETUR,Cetus Capital Acquisition Corp.
+9666,1936702,CETUU,Cetus Capital Acquisition Corp.
+9667,1936702,CETUW,Cetus Capital Acquisition Corp.
+9668,1858912,GDNRU,Gardiner Healthcare Acquisitions Corp.
+9669,1858912,GDNRW,Gardiner Healthcare Acquisitions Corp.
+9670,1834336,FSRXU,Finserv Acquisition Corp. Ii
+9671,1834336,FSRXW,Finserv Acquisition Corp. Ii
+9672,895421,MSTLW,Morgan Stanley
+9673,1836274,ACAHU,Atlantic Coastal Acquisition Corp.
+9674,1836274,ACAHW,Atlantic Coastal Acquisition Corp.
+9675,895421,MS-PL,Morgan Stanley
+9676,895421,MS-PO,Morgan Stanley
+9677,895421,MS-PP,Morgan Stanley
+9678,1914023,ACACU,Acri Capital Acquisition Corp
+9679,1914023,ACACW,Acri Capital Acquisition Corp
+9680,1852889,IVCAU,Investcorp India Acquisition Corp
+9681,1852889,IVCAW,Investcorp India Acquisition Corp
+9682,1865407,KCGI-UN,Kensington Capital Acquisition Corp. V
+9683,1865407,KCGI-WT,Kensington Capital Acquisition Corp. V
+9684,1454480,SHZNF,Shenzhen Expressway Co. / Adr
+9685,1819498,TWLVU,Twelve Seas Investment Co. Ii
+9686,1819498,TWLVW,Twelve Seas Investment Co. Ii
+9687,1851959,CNDA-UN,Concord Acquisition Corp Ii
+9688,1851959,CNDA-WT,Concord Acquisition Corp Ii
+9689,1856589,MBSC-UN,M3-Brigade Acquisition Iii Corp.
+9690,1856589,MBSC-WT,M3-Brigade Acquisition Iii Corp.
+9691,1682220,SACH-PA,Sachem Capital Corp.
+9692,1661053,NVNBW,Envveno Medical Corp
+9693,1841408,DAVEW,Dave Inc./De
+9694,1682220,SCCB,Sachem Capital Corp.
+9695,1682220,SCCC,Sachem Capital Corp.
+9696,1682220,SCCD,Sachem Capital Corp.
+9697,1682220,SCCE,Sachem Capital Corp.
+9698,1682220,SCCF,Sachem Capital Corp.
+9699,1682220,SCCG,Sachem Capital Corp.
+9700,1682220,SACC,Sachem Capital Corp.
+9701,1717452,ODTCD,"Odonate Therapeutics, Inc."
+9702,1824153,LHCIW,Leo Holdings Corp. Ii
+9703,1486159,OASPW,Chord Energy Corp
+9704,876378,TRXDW,"Asensus Surgical, Inc."
+9705,64463,SLNHP,"Soluna Holdings, Inc"
+9706,1927719,CRGOW,Freightos Ltd
+9707,1883983,VSACU,Vision Sensing Acquisition Corp.
+9708,1883983,VSACW,Vision Sensing Acquisition Corp.
+9709,1851182,FHLTU,Future Health Esg Corp.
+9710,1851182,FHLTW,Future Health Esg Corp.
+9711,1862993,APCA-UN,Ap Acquisition Corp
+9712,1862993,APCA-WT,Ap Acquisition Corp
+9713,1817640,BREZR,Breeze Holdings Acquisition Corp.
+9714,1817640,BREZW,Breeze Holdings Acquisition Corp.
+9715,1845368,HCMAU,Hcm Acquisition Corp
+9716,1845368,HCMAW,Hcm Acquisition Corp
+9717,1865120,BRACR,Broad Capital Acquisition Corp
+9718,1865120,BRACU,Broad Capital Acquisition Corp
+9719,1498233,CPTNW,"Cepton, Inc."
+9720,1839360,FAZEW,Faze Holdings Inc.
+9721,1853816,DRMAW,"Dermata Therapeutics, Inc."
+9722,1815753,TBCPU,Thunder Bridge Capital Partners Iii Inc.
+9723,1815753,TBCPW,Thunder Bridge Capital Partners Iii Inc.
+9724,1811856,VIEWW,"View, Inc."
+9725,1822366,ALTUU,Altitude Acquisition Corp.
+9726,1822366,ALTUW,Altitude Acquisition Corp.
+9727,1824502,ACHR-WT,Archer Aviation Inc.
+9728,1723648,LVOXW,"Livevox Holdings, Inc."
+9729,1723648,LVOXU,"Livevox Holdings, Inc."
+9730,1845815,PAYOW,Payoneer Global Inc.
+9731,1803901,TALKW,"Talkspace, Inc."
+9732,1855631,AWINW,Aerwins Technologies Inc.
 9733,1888846,UHGI,"Ultimate Holdings Group, Inc."
+9734,1703956,BBCPW,"Concrete Pumping Holdings, Inc."
+9735,1482541,CEADW,Cea Industries Inc.
+9736,1841925,INDIW,"Indie Semiconductor, Inc."
+9737,1823466,NOTE-WT,"Fiscalnote Holdings, Inc."
+9738,1846253,OABIW,"Omniab, Inc."
+9739,98222,TDW-WT,Tidewater Inc
+9740,98222,TDDWW,Tidewater Inc
+9741,98222,TDGMW,Tidewater Inc
 9742,1853630,HMELF,Hold Me Ltd
+9743,1861622,JTAIW,Jet.Ai Inc.
+9744,1861622,JTAIZ,Jet.Ai Inc.
+9745,1936258,NAMSW,Newamsterdam Pharma Co N.V.
+9746,1907982,QBTS-WT,D-Wave Quantum Inc.
+9747,1759824,ALTG-PA,Alta Equipment Group Inc.
+9748,1851961,CNDB-UN,Concord Acquisition Corp Iii
+9749,1851961,CNDB-WT,Concord Acquisition Corp Iii
+9750,1912461,SKGRU,Sk Growth Opportunities Corp
+9751,1912461,SKGRW,Sk Growth Opportunities Corp
+9752,1851484,TENKR,Tenx Keane Acquisition
+9753,1851484,TENKU,Tenx Keane Acquisition
+9754,1853138,AACT-UN,Ares Acquisition Corp Ii
+9755,1853138,AACT-WT,Ares Acquisition Corp Ii
+9756,1844149,PCCTU,Perception Capital Corp. Ii
+9757,1844149,PCCTW,Perception Capital Corp. Ii
+9758,1849737,PLAOU,Patria Latin American Opportunity Acquisition Corp.
+9759,1849737,PLAOW,Patria Latin American Opportunity Acquisition Corp.
+9760,1888654,FEAV,"5E Advanced Materials, Inc."
+9761,1725872,BMTX-WT,"Bm Technologies, Inc."
+9762,1900402,EVGRU,Evergreen Corp
+9763,1900402,EVGRW,Evergreen Corp
+9764,1868573,APXIU,Apx Acquisition Corp. I
+9765,1868573,APXIW,Apx Acquisition Corp. I
+9766,1857518,JGGCR,Jaguar Global Growth Corp I
+9767,1857518,JGGCU,Jaguar Global Growth Corp I
+9768,1842644,SLVRW,Silverspac Inc.
+9769,1857518,JGGCW,Jaguar Global Growth Corp I
+9770,1856948,CHEAU,Chenghe Acquisition Co.
+9771,1856948,CHEAW,Chenghe Acquisition Co.
+9772,1865506,ESACU,Esgen Acquisition Corp
+9773,1865506,ESACW,Esgen Acquisition Corp
+9774,1825473,PRSRU,Prospector Capital Corp.
+9775,1845550,APTMU,Alpha Partners Technology Merger Corp.
+9776,1845550,APTMW,Alpha Partners Technology Merger Corp.
+9777,1825473,PRSRW,Prospector Capital Corp.
+9778,925741,BCDAW,"Biocardia, Inc."
+9779,1870404,PBAXU,Phoenix Biotech Acquisition Corp.
+9780,1870404,PBAXW,Phoenix Biotech Acquisition Corp.
+9781,1794621,QNGWQ,"Quanergy Systems, Inc."
+9782,1753673,SJOYW,Scienjoy Holding Corp
+9783,1703644,GPMT-PA,Granite Point Mortgage Trust Inc.
+9784,1075415,DHCNI,Diversified Healthcare Trust
+9785,1075415,DHCNL,Diversified Healthcare Trust
+9786,1779372,BEATW,"Heartbeam, Inc."
+9787,1143513,GLADZ,Gladstone Capital Corp
+9788,886163,LGNDZ,Ligand Pharmaceuticals Inc
+9789,886163,LGNXZ,Ligand Pharmaceuticals Inc
+9790,886163,LGNYZ,Ligand Pharmaceuticals Inc
+9791,886163,LGNZZ,Ligand Pharmaceuticals Inc
+9792,1276187,ET-PC,Energy Transfer Lp
+9793,1276187,ET-PD,Energy Transfer Lp
+9794,1276187,ET-PE,Energy Transfer Lp
+9795,1907685,CMRAW,"Comera Life Sciences Holdings, Inc."
+9796,1297996,DLR-PL,"Digital Realty Trust, Inc."
+9797,1747009,EQTNP,Equitrans Midstream Corp
+9798,1788841,MCOMW,Micromobility.Com Inc.
+9799,1818605,DISTR,Distoken Acquisition Corp
+9800,1818605,DISTW,Distoken Acquisition Corp
+9801,1882198,ATEK-UN,Athena Technology Acquisition Corp. Ii
+9802,1882198,ATEK-WT,Athena Technology Acquisition Corp. Ii
+9803,1889450,FTIIU,Futuretech Ii Acquisition Corp.
+9804,1889450,FTIIW,Futuretech Ii Acquisition Corp.
+9805,1816233,SHCRW,"Sharecare, Inc."
+9806,1836875,NVVEW,Nuvve Holding Corp.
+9807,1099219,MET-PF,Metlife Inc
+9808,1750153,GOEVW,Canoo Inc.
+9809,14272,CELG-RI,Bristol Myers Squibb Co
+9810,1419554,BBLGW,Bone Biologics Corp
+9811,1936804,SDAWW,Suncar Technology Group Inc.
+9812,1955104,ZAPPW,Zapp Electric Vehicles Group Ltd
+9813,1849635,DWACU,Digital World Acquisition Corp.
+9814,1849635,DWACW,Digital World Acquisition Corp.
+9815,1830081,RUMBW,Rumble Inc.
+9816,1804176,BFLY-WT,"Butterfly Network, Inc."
+9817,1836981,BBAI-WT,"Bigbear.Ai Holdings, Inc."
+9818,1847075,SAITW,Sai.Tech Global Corp
+9819,1822928,HLLY-WT,Holley Inc.
+9820,1014763,AIMDW,"Ainos, Inc."
+9821,1783036,NLSPW,Nls Pharmaceutics Ltd.
+9822,1866782,CDROW,"Codere Online Luxembourg, S.A."
+9823,109380,ZIONL,"Zions Bancorporation, National Association /Ut/"
+9824,109380,ZIONO,"Zions Bancorporation, National Association /Ut/"
+9825,109380,ZIONP,"Zions Bancorporation, National Association /Ut/"
+9826,1935418,FMSTW,Foremost Lithium Resource & Technology Ltd.
+9827,1823878,MYPSW,"Playstudios, Inc."
+9828,1406234,BIPI,Brookfield Infrastructure Partners L.P.
+9829,1406234,BIP-PA,Brookfield Infrastructure Partners L.P.
+9830,1406234,BIP-PB,Brookfield Infrastructure Partners L.P.
+9831,1844452,LUNRW,"Intuitive Machines, Inc."
+9832,1853044,WWACU,Worldwide Webb Acquisition Corp.
+9833,1853044,WWACW,Worldwide Webb Acquisition Corp.
+9834,1635077,ACONW,"Aclarion, Inc."
+9835,1482512,HPP-PC,"Hudson Pacific Properties, Inc."
+9836,821130,UZD,United States Cellular Corp
+9837,821130,UZE,United States Cellular Corp
+9838,821130,UZF,United States Cellular Corp
 9839,1729637,KARX,Karbon-X Corp.
+9840,1852749,XFINU,Excelfin Acquisition Corp.
+9841,1852749,XFINW,Excelfin Acquisition Corp.
+9842,1873324,PEPLU,Pepperlime Health Acquisition Corp
+9843,1873324,PEPLW,Pepperlime Health Acquisition Corp
+9844,1860871,LGSTU,Semper Paratus Acquisition Corp
+9845,1860871,LGSTW,Semper Paratus Acquisition Corp
+9846,1495222,OXLCP,Oxford Lane Capital Corp.
+9847,1495222,OXLCZ,Oxford Lane Capital Corp.
+9848,1495222,OXLCN,Oxford Lane Capital Corp.
+9849,1495222,OXLCL,Oxford Lane Capital Corp.
+9850,92108,SOCGM,Southern California Gas Co
+9851,1865045,FATPU,Fat Projects Acquisition Corp
+9852,1865045,FATPW,Fat Projects Acquisition Corp
 9853,1839586,DMXCF,District Metals Corp.
+9854,921638,SSRGF,Ssr Mining Inc.
 9855,1851048,CYRB,Cyber App Solutions Corp.
+9856,1874474,ALLG-WT,Allego N.V.
+9857,1046179,TSMWF,Taiwan Semiconductor Manufacturing Co Ltd
 9858,1867956,LKRY,Linktory Inc.
+9859,1644903,YCBD-PA,"Cbdmd, Inc."
+9860,1603923,WFTUF,Weatherford International Plc
+9861,1348362,LEXXW,Lexaria Bioscience Corp.
+9862,1895262,NE-WTA,Noble Corp Plc
+9863,1895262,NE-WT,Noble Corp Plc
+9864,1895262,NBLWF,Noble Corp Plc
+9865,1869858,SSU-WT,Signa Sports United N.V.
+9866,1034670,ALIV,Autoliv Inc
 9867,1612188,TEOF,Teo Foods Inc
+9868,1854275,IOACU,Innovative International Acquisition Corp.
+9869,1854275,IOACW,Innovative International Acquisition Corp.
+9870,1819404,NRDY-WT,Nerdy Inc.
+9871,899051,ALL-PI,Allstate Corp
+9872,899051,ALL-PJ,Allstate Corp
+9873,1034957,CRESW,Cresud Inc
 9874,1837671,CPPTL,Copper Property Ctl Pass Through Trust
+9875,7789,ASBA,Associated Banc-Corp
+9876,769218,AEFC,Aegon Nv
+9877,7789,ASB-PF,Associated Banc-Corp
+9878,1693577,MNSBP,"Mainstreet Bancshares, Inc."
+9879,1812360,FOXOW,Foxo Technologies Inc.
+9880,1837412,SLGCW,"Somalogic, Inc."
+9881,1059262,CRLKP,Sp Plus Corp
 9882,1627606,DTEAF,Davidstea Inc.
+9883,1843714,WNNR-UN,Andretti Acquisition Corp.
+9884,1843714,WNNR-WT,Andretti Acquisition Corp.
+9885,1802450,LIFWW,"Msp Recovery, Inc."
+9886,1802450,LIFWZ,"Msp Recovery, Inc."
+9887,1829247,BFRGW,"Bullfrog Ai Holdings, Inc."
+9888,1295810,SHO-PH,"Sunstone Hotel Investors, Inc."
+9889,1295810,SHO-PI,"Sunstone Hotel Investors, Inc."
+9890,1792849,HPKEW,"Highpeak Energy, Inc."
+9891,1861974,ECXWW,Ecarx Holdings Inc.
+9892,1864032,ADRT-UN,Ault Disruptive Technologies Corp
+9893,1864032,ADRTW,Ault Disruptive Technologies Corp
+9894,1856961,BOCNU,Blue Ocean Acquisition Corp
+9895,1856961,BOCNW,Blue Ocean Acquisition Corp
+9896,1752828,CELUW,Celularity Inc
+9897,203596,WSBCP,Wesbanco Inc
+9898,1886190,GGROW,Gogoro Inc.
+9899,1883085,PGYWW,Pagaya Technologies Ltd.
+9900,1234006,GOODN,Gladstone Commercial Corp
+9901,1111711,NIMC,Nisource Inc.
+9902,1858007,GDSTR,Goldenstone Acquisition Ltd.
+9903,1858007,GDSTU,Goldenstone Acquisition Ltd.
+9904,1858007,GDSTW,Goldenstone Acquisition Ltd.
+9905,1854963,SHFSW,"Shf Holdings, Inc."
 9906,1846702,FIGP,"Forge Group, Inc."
 9907,1727255,COBA,Chilean Cobalt Corp.
+9908,1835856,BETRW,Better Home & Finance Holding Co
+9909,1267395,AHL-PE,Aspen Insurance Holdings Ltd
+9910,1826681,STRCW,Sarcos Technology & Robotics Corp
+9911,1657853,HTZWW,"Hertz Global Holdings, Inc"
+9912,1665300,PHUNW,"Phunware, Inc."
+9913,1822791,CLNNW,Clene Inc.
+9914,1819615,CLVRW,Clever Leaves Holdings Inc.
+9915,1847112,TRTL-WT,Tortoiseecofin Acquisition Corp. Iii
+9916,1937737,MLECW,Moolec Science Sa
+9917,1847112,TRTL-UN,Tortoiseecofin Acquisition Corp. Iii
+9918,1360214,HROWL,"Harrow Health, Inc."
+9919,1360214,HROWM,"Harrow Health, Inc."
+9920,1703079,XFLT-PA,Xai Octagon Floating Rate & Alternative Income Term Trust
+9921,1799191,TOIIW,"Oncology Institute, Inc."
+9922,1605888,SQLLW,"Seqll, Inc."
+9923,1332551,ACR-PC,Acres Commercial Realty Corp.
+9924,1332551,ACR-PD,Acres Commercial Realty Corp.
+9925,1820302,BKKT-WT,"Bakkt Holdings, Inc."
+9926,1868269,LATGU,Latamgrowth Spac
+9927,1865861,CCTSU,Cactus Acquisition Corp. 1 Ltd
+9928,1865861,CCTSW,Cactus Acquisition Corp. 1 Ltd
+9929,1004315,NMPWP,National Grid Plc
+9930,1004315,NEWEN,National Grid Plc
+9931,1554625,PRIF-PK,"Priority Income Fund, Inc."
+9932,1554625,PRIF-PL,"Priority Income Fund, Inc."
+9933,1554625,PRIF-PD,"Priority Income Fund, Inc."
+9934,1554625,PRIF-PF,"Priority Income Fund, Inc."
+9935,1554625,PRIF-PG,"Priority Income Fund, Inc."
+9936,1554625,PRIF-PH,"Priority Income Fund, Inc."
+9937,1554625,PRIF-PI,"Priority Income Fund, Inc."
+9938,1554625,PRIF-PJ,"Priority Income Fund, Inc."
+9939,1838128,LOWLD,Lowell Farms Inc.
+9940,1848739,GDEVW,Gdev Inc.
+9941,1001085,BNH,Brookfield Corp /On/
+9942,1001085,BNJ,Brookfield Corp /On/
+9943,1001085,BROXF,Brookfield Corp /On/
+9944,1651308,BEIGF,"Beigene, Ltd."
+9945,1691936,SNAXW,"Stryve Foods, Inc."
+9946,1827899,CPTK-UN,Crown Proptech Acquisitions
+9947,1827899,CPTKW,Crown Proptech Acquisitions
+9948,1874495,FRBNU,Forbion European Acquisition Corp.
+9949,1874495,FRBNW,Forbion European Acquisition Corp.
+9950,1890671,DUETU,Duet Acquisition Corp.
+9951,1890671,DUETW,Duet Acquisition Corp.
+9952,1851612,BHACU,Crixus Bh3 Acquisition Co
+9953,1851612,BHACW,Crixus Bh3 Acquisition Co
+9954,1001085,BAMKF,Brookfield Corp /On/
+9955,1001085,BRFPF,Brookfield Corp /On/
+9956,1001085,BXDIF,Brookfield Corp /On/
+9957,1001085,BKAMF,Brookfield Corp /On/
+9958,1001085,BKFAF,Brookfield Corp /On/
+9959,897802,SPE-PC,"Special Opportunities Fund, Inc."
 9960,1603016,HMLPF,Hoegh Lng Partners Lp
 9961,1883835,PMIN,Plasma Innovative Inc.
+9962,1839530,CFFEU,Cf Acquisition Corp. Viii
+9963,1839530,CFFEW,Cf Acquisition Corp. Viii
+9964,1840502,TBLAW,Taboola.Com Ltd.
+9965,1875547,LCFYW,Locafy Ltd
+9966,1820144,GRND-WT,Grindr Inc.
+9967,1752474,KLDIW,Kldiscovery Inc.
+9968,1821850,SUNL-WT,Sunlight Financial Holdings Inc.
+9969,1833214,SABSW,"Sab Biotherapeutics, Inc."
+9970,1841024,LCAAU,L Catterton Asia Acquisition Corp
+9971,1841024,LCAAW,L Catterton Asia Acquisition Corp
+9972,1839132,MVLAW,Movella Holdings Inc.
+9973,1855485,CLDI-WT,"First Light Acquisition Group, Inc."
+9974,1896049,STIXW,"Semantix, Inc."
+9975,1495240,LANDO,Gladstone Land Corp
 9976,1587603,WNRS,"Winners, Inc."
+9977,1764046,CLVT-PA,Clarivate Plc
+9978,1086888,MNLCF,Manulife Financial Corp
+9979,1086888,MNQFF,Manulife Financial Corp
+9980,1086888,MNUFF,Manulife Financial Corp
+9981,1539638,TFINP,"Triumph Financial, Inc."
+9982,1964504,TPRXF,Aris Mining Corp
+9983,1964504,CLGDF,Aris Mining Corp
+9984,1870144,CDIOW,"Cardio Diagnostics Holdings, Inc."
+9985,1080319,NWGIW,"Elys Game Technology, Corp."
+9986,1818502,OPFI-WT,Oppfi Inc.
+9987,1847064,PSQH-WT,"Psq Holdings, Inc."
+9988,1393311,PSA-PL,Public Storage
+9989,1393311,PSA-PI,Public Storage
+9990,1393311,PSA-PJ,Public Storage
+9991,1080657,SQFTP,"Presidio Property Trust, Inc."
+9992,1080657,SQFTW,"Presidio Property Trust, Inc."
+9993,1393311,PSA-PF,Public Storage
+9994,1393311,PSA-PS,Public Storage
+9995,1393311,PSA-PM,Public Storage
+9996,1393311,PSA-PN,Public Storage
+9997,1393311,PSA-PO,Public Storage
+9998,1393311,PSA-PP,Public Storage
+9999,1393311,PSA-PQ,Public Storage
+10000,1393311,PSA-PR,Public Storage
+10001,1393311,PSA-PG,Public Storage
+10002,1871983,ANGHW,Anghami Inc
+10003,1753539,BKSY-WT,Blacksky Technology Inc.
+10004,1805833,SST-WT,"System1, Inc."
 10005,58411,RONN,"Lee Pharmaceuticals, Inc."
+10006,1505611,DPSIP,"Decisionpoint Systems, Inc."
+10007,1110452,AFRAD,Air France-Klm /Fi
+10008,1610853,HSDTW,"Helius Medical Technologies, Inc."
+10009,1591890,FGFPP,"Fg Financial Group, Inc."
 10010,1871890,GLEI,Galaxy Enterprises Inc. /Wy/
+10011,1879373,ENCPU,Energem Corp
+10012,1879373,ENCPW,Energem Corp
+10013,1847986,DFLIW,Dragonfly Energy Holdings Corp.
+10014,1408534,FGBIP,"First Guaranty Bancshares, Inc."
+10015,1957538,ESGLW,Esgl Holdings Ltd
+10016,1845013,HWELU,Healthwell Acquisition Corp. I
+10017,1845013,HWELW,Healthwell Acquisition Corp. I
+10018,1629019,MBINN,Merchants Bancorp
+10019,1629019,MBINO,Merchants Bancorp
+10020,1629019,MBINM,Merchants Bancorp
+10021,1901886,AFARU,Aura Fat Projects Acquisition Corp
+10022,1901886,AFARW,Aura Fat Projects Acquisition Corp
+10023,1845097,AMBP-WT,Ardagh Metal Packaging S.A.
+10024,1635088,ROIVW,Roivant Sciences Ltd.
 10025,1792941,GNVR,Genvor Inc
+10026,1871321,DRTSW,Alpha Tau Medical Ltd.
+10027,732717,TBC,At&T Inc.
+10028,732717,T-PA,At&T Inc.
+10029,732717,T-PC,At&T Inc.
+10030,1695519,ATGPF,Altagas Ltd.
+10031,1695519,ATGAF,Altagas Ltd.
+10032,1905660,HUBCZ,Hub Cyber Security Ltd.
+10033,1876581,IMPPP,Imperial Petroleum Inc./Marshall Islands
+10034,1819810,RDW-WT,Redwire Corp
 10035,1824204,PVOZ,Park View Oz Reit Inc
+10036,945764,DNRRW,Denbury Inc
+10037,945764,DNRWW,Denbury Inc
+10038,798359,CSR-PC,Centerspace
+10039,1756404,PDSKX,Principal Real Asset Fund
+10040,1940674,SMXWW,Smx (Security Matters) Public Ltd Co
 10041,1619312,LTSV,"Lightstone Value Plus Reit Iv, Inc."
+10042,1843724,LNZAW,"Lanzatech Global, Inc."
+10043,1946425,HHRSW,Hammerhead Energy Inc.
+10044,1905660,HUBCW,Hub Cyber Security Ltd.
 10045,1818674,SYBE,Sybleu Inc
 10046,1452804,RMHI,"Retrieve Medical Holdings, Inc."
+10047,1929589,MRDB-WT,Mariadb Plc
+10048,1136174,OTRKP,"Ontrak, Inc."
+10049,1015383,POWWP,"Ammo, Inc."
+10050,1160106,LLOBF,Lloyds Banking Group Plc
+10051,77281,PRETL,Pennsylvania Real Estate Investment Trust
+10052,77281,PRETM,Pennsylvania Real Estate Investment Trust
+10053,77281,PRETN,Pennsylvania Real Estate Investment Trust
+10054,92103,SCE-PJ,Southern California Edison Co
+10055,92103,SCE-PK,Southern California Edison Co
+10056,92103,SCE-PL,Southern California Edison Co
+10057,92103,SCE-PG,Southern California Edison Co
+10058,92103,SCE-PH,Southern California Edison Co
+10059,1953530,OCSAW,Oculis Holding Ag
+10060,1843121,OPA-UN,Magnum Opus Acquisition Ltd
+10061,1843121,OPA-WT,Magnum Opus Acquisition Ltd
+10062,1807707,APPWQ,"Appharvest, Inc."
+10063,1232384,TRPPF,Tc Energy Corp
+10064,1232384,TRPEF,Tc Energy Corp
+10065,1705012,FATBP,"Fat Brands, Inc"
+10066,1705012,FATBW,"Fat Brands, Inc"
+10067,759944,CFG-PE,Citizens Financial Group Inc/Ri
+10068,753308,NEE-PN,Nextera Energy Inc
+10069,753308,NEE-PR,Nextera Energy Inc
+10070,720005,RJF-PB,Raymond James Financial Inc
+10071,1822912,ADERU,26 Capital Acquisition Corp.
+10072,1822912,ADERW,26 Capital Acquisition Corp.
+10073,1841610,ROSS-UN,Ross Acquisition Corp Ii
+10074,1841610,ROSS-WT,Ross Acquisition Corp Ii
+10075,1506492,NUWEW,"Nuwellis, Inc."
+10076,1209028,AAIC-PB,Arlington Asset Investment Corp.
+10077,1209028,AAIC-PC,Arlington Asset Investment Corp.
+10078,1209028,AAIN,Arlington Asset Investment Corp.
+10079,1848763,RNWWW,Renew Energy Global Plc
+10080,811156,CMSC,Cms Energy Corp
+10081,811156,CMSD,Cms Energy Corp
+10082,811156,CMS-PC,Cms Energy Corp
+10083,23795,CTO-PA,"Cto Realty Growth, Inc."
+10084,1823144,CMPOW,"Composecure, Inc."
+10085,1687187,METCB,"Ramaco Resources, Inc."
+10086,1687187,METCL,"Ramaco Resources, Inc."
+10087,1843248,GSDWU,"Global System Dynamics, Inc."
+10088,1843248,GSDWW,"Global System Dynamics, Inc."
+10089,1668370,TBLTW,"Toughbuilt Industries, Inc"
+10090,1825452,ONFOW,"Onfolio Holdings, Inc"
+10091,862651,INVUP,"Investview, Inc."
+10092,1355096,QRTEP,"Qurate Retail, Inc."
+10093,1037676,ARRHW,"Arch Resources, Inc."
+10094,1862068,RBT-WT,"Rubicon Technologies, Inc."
+10095,1844971,GREEL,Greenidge Generation Holdings Inc.
+10096,1253986,ABR-PD,Arbor Realty Trust Inc
+10097,1253986,ABR-PE,Arbor Realty Trust Inc
+10098,1253986,ABR-PF,Arbor Realty Trust Inc
+10099,720672,SF-PC,Stifel Financial Corp
+10100,720672,SF-PD,Stifel Financial Corp
+10101,1922331,GLSTW,Global Star Acquisition Inc.
+10102,720672,SFB,Stifel Financial Corp
+10103,1781162,MNTSW,Momentus Inc.
+10104,1922331,GLSTR,Global Star Acquisition Inc.
+10105,1922331,GLSTU,Global Star Acquisition Inc.
+10106,310732,BNPZY,Bnp Paribas
+10107,1931691,MOBVU,Mobiv Acquisition Corp
+10108,1931691,MOBVW,Mobiv Acquisition Corp
+10109,1845942,BNIXR,Bannix Acquisition Corp.
+10110,1845942,BNIXW,Bannix Acquisition Corp.
+10111,1880151,LIBYU,Liberty Resources Acquisition Corp.
+10112,1880151,LIBYW,Liberty Resources Acquisition Corp.
+10113,1839990,ARTEU,Artemis Strategic Investment Corp
+10114,1839990,ARTEW,Artemis Strategic Investment Corp
+10115,1852407,FEXDR,Fintech Ecosystem Development Corp.
+10116,1852407,FEXDU,Fintech Ecosystem Development Corp.
+10117,1852407,FEXDW,Fintech Ecosystem Development Corp.
+10118,1840425,BLACR,Bellevue Life Sciences Acquisition Corp.
+10119,1840425,BLACU,Bellevue Life Sciences Acquisition Corp.
+10120,1840425,BLACW,Bellevue Life Sciences Acquisition Corp.
+10121,107815,WELPM,Wisconsin Electric Power Co
+10122,1114700,GRFGF,Grupo Financiero Galicia Sa
+10123,1819796,GCMGW,Gcm Grosvenor Inc.
+10124,1397183,IVDAW,"Iveda Solutions, Inc."
+10125,1321741,GAINN,Gladstone Investment Corporation\De
+10126,1321741,GAINZ,Gladstone Investment Corporation\De
+10127,1853070,PACI-UN,Proof Acquisition Corp I
+10128,1853070,PACI-WT,Proof Acquisition Corp I
+10129,1843973,EGGF-UN,Eg Acquisition Corp.
+10130,1843973,EGGF-WT,Eg Acquisition Corp.
+10131,1830210,BHIL-WT,"Benson Hill, Inc."
+10132,1829322,SZZLU,Sizzle Acquisition Corp.
+10133,1829322,SZZLW,Sizzle Acquisition Corp.
+10134,1815436,MYZQF,Advanced Health Intelligence Ltd
+10135,771992,PAASF,Pan American Silver Corp
+10136,744452,APPDW,Applied Dna Sciences Inc
+10137,1820566,ISPOW,Inspirato Inc
+10138,1889983,KVACU,Keen Vision Acquisition Corp.
+10139,1871638,BRKHU,Burtech Acquisition Corp.
+10140,1871638,BRKHW,Burtech Acquisition Corp.
+10141,1881551,NUBIU,Nubia Brand International Corp.
+10142,1881551,NUBIW,Nubia Brand International Corp.
+10143,917251,ADC-PA,Agree Realty Corp
+10144,1469395,PPENF,Pampa Energy Inc.
+10145,845877,AGM-PE,Federal Agricultural Mortgage Corp
+10146,845877,AGM-PF,Federal Agricultural Mortgage Corp
+10147,845877,AGM-PG,Federal Agricultural Mortgage Corp
+10148,1273685,NYMTL,New York Mortgage Trust Inc
+10149,1273685,NYMTM,New York Mortgage Trust Inc
+10150,1907730,YOTAR,Yotta Acquisition Corp
+10151,1907730,YOTAU,Yotta Acquisition Corp
+10152,1907730,YOTAW,Yotta Acquisition Corp
+10153,1527590,RC-PC,Ready Capital Corp
+10154,1527590,RC-PE,Ready Capital Corp
+10155,1527590,RCB,Ready Capital Corp
+10156,1527590,RCC,Ready Capital Corp
+10157,1273685,NYMTZ,New York Mortgage Trust Inc
+10158,1654595,MDRRP,"Medalist Diversified Reit, Inc."
+10159,1464423,PMT-PC,Pennymac Mortgage Investment Trust
+10160,1261249,AGXRW,Agile Therapeutics Inc
+10161,1716947,ENSCW,"Ensysce Biosciences, Inc."
+10162,927971,FNGO,Bank Of Montreal /Can/
+10163,927971,FNGS,Bank Of Montreal /Can/
+10164,927971,FNGU,Bank Of Montreal /Can/
+10165,927971,BNKD,Bank Of Montreal /Can/
+10166,927971,BNKU,Bank Of Montreal /Can/
+10167,927971,BULZ,Bank Of Montreal /Can/
+10168,927971,DULL,Bank Of Montreal /Can/
+10169,75208,OGSRW,Overseas Shipholding Group Inc
+10170,927971,BERZ,Bank Of Montreal /Can/
+10171,927971,JETU,Bank Of Montreal /Can/
+10172,927971,JETD,Bank Of Montreal /Can/
+10173,927971,CARD,Bank Of Montreal /Can/
+10174,927971,CARU,Bank Of Montreal /Can/
+10175,927971,SHNY,Bank Of Montreal /Can/
+10176,927971,WTID,Bank Of Montreal /Can/
+10177,927971,WTIU,Bank Of Montreal /Can/
+10178,927971,OILD,Bank Of Montreal /Can/
+10179,927971,OILU,Bank Of Montreal /Can/
+10180,927971,GDXD,Bank Of Montreal /Can/
+10181,927971,GDXU,Bank Of Montreal /Can/
+10182,927971,NRGD,Bank Of Montreal /Can/
+10183,927971,NRGU,Bank Of Montreal /Can/
+10184,927971,FLYD,Bank Of Montreal /Can/
+10185,927971,FLYU,Bank Of Montreal /Can/
+10186,1748137,NEOVW,Neovolta Inc.
+10187,1642985,MBIC,Mobile Infrastructure Corp
+10188,1880319,PRMFF,"Perimeter Solutions, Sa"
+10189,831609,CWLXF,C21 Investments Inc.
+10190,1645873,MDV-PA,"Modiv Industrial, Inc."
+10191,1785592,LFLYW,"Leafly Holdings, Inc. /De"
+10192,1409036,TARSD,Silver North Resources Ltd.
+10193,1854587,CLBTW,Cellebrite Di Ltd.
+10194,1839998,DTOCU,Digital Transformation Opportunities Corp.
+10195,1839998,DTOCW,Digital Transformation Opportunities Corp.
 10196,1761534,GRDV,Golden Royal Development Inc.
+10197,831001,C-PK,Citigroup Inc
+10198,831001,C-PN,Citigroup Inc
+10199,1805521,FFIEW,Faraday Future Intelligent Electric Inc.
+10200,1632970,AHRT,"American Healthcare Reit, Inc."
+10201,1582982,CCLDO,"Carecloud, Inc."
+10202,1582982,CCLDP,"Carecloud, Inc."
+10203,1957489,ABLVW,Able View Global Inc.
 10204,1661779,STGC,"Startengine Crowdfunding, Inc."
+10205,899689,VNO-PN,Vornado Realty Trust
+10206,899689,VNO-PO,Vornado Realty Trust
+10207,1424657,CUENW,Cuentas Inc.
+10208,1174169,AGQPF,Algonquin Power & Utilities Corp.
+10209,1174169,AQNA,Algonquin Power & Utilities Corp.
+10210,1174169,AQNB,Algonquin Power & Utilities Corp.
+10211,1174169,AQNU,Algonquin Power & Utilities Corp.
+10212,1950429,NNAGU,99 Acquisition Group Inc.
+10213,1868775,ASCAR,Aspac I Acquisition Corp.
+10214,1868775,ASCAU,Aspac I Acquisition Corp.
+10215,1868775,ASCAW,Aspac I Acquisition Corp.
+10216,1326160,DUKB,Duke Energy Corp
+10217,1831964,NRACU,Northern Revival Acquisition Corp
+10218,1831964,NRACW,Northern Revival Acquisition Corp
+10219,1591913,IPSID,"Innovative Payment Solutions, Inc."
+10220,808219,MHGUP,Meritage Hospitality Group Inc
+10221,1779128,BLDEW,"Blade Air Mobility, Inc."
+10222,1897245,ACAXR,Alset Capital Acquisition Corp.
+10223,1897245,ACAXU,Alset Capital Acquisition Corp.
+10224,1897245,ACAXW,Alset Capital Acquisition Corp.
+10225,1513525,ADIWW,"Adial Pharmaceuticals, Inc."
 10226,1828739,AZRS,Azzurro Solutions Corp.
+10227,1824920,IONQ-WT,"Ionq, Inc."
+10228,1856031,SEATW,Vivid Seats Inc.
+10229,1787518,BRLIR,Brilliant Acquisition Corp
+10230,1787518,BRLIU,Brilliant Acquisition Corp
+10231,1787518,BRLIW,Brilliant Acquisition Corp
+10232,1950246,MTAL-WT,Metals Acquisition Ltd
+10233,1660734,TRTN-PB,Triton International Ltd
+10234,1660734,TRTN-PC,Triton International Ltd
+10235,1660734,TRTN-PD,Triton International Ltd
+10236,1660734,TRTN-PE,Triton International Ltd
+10237,1842498,OTMOW,Otonomo Technologies Ltd.
+10238,874761,AESC,Aes Corp
+10239,1864943,FGIWW,Fgi Industries Ltd.
+10240,1554818,AUUDW,Auddia Inc.
+10241,1097362,SNLFF,Sun Life Financial Inc
+10242,1097362,SLFIF,Sun Life Financial Inc
+10243,1097362,SUNFF,Sun Life Financial Inc
+10244,1819794,HTOOW,Fusion Fuel Green Plc
+10245,1487918,OFSSH,Ofs Capital Corp
+10246,1739174,PHGE-UN,Biomx Inc.
+10247,1739174,PHGEW,Biomx Inc.
+10248,1058307,NXPLW,Nextplat Corp
+10249,1843993,THCPU,"Thunder Bridge Capital Partners Iv, Inc."
+10250,1843993,THCPW,"Thunder Bridge Capital Partners Iv, Inc."
+10251,1839730,SLHPF,Skylight Health Group Inc.
+10252,1852633,BYN-UN,Banyan Acquisition Corp
+10253,1852633,BYN-WT,Banyan Acquisition Corp
+10254,14930,BC-PA,Brunswick Corp
+10255,14930,BC-PB,Brunswick Corp
+10256,14930,BC-PC,Brunswick Corp
 10257,1848334,OKMN,"Okmin Resources, Inc."
+10258,1136352,CEQP-P,Crestwood Equity Partners Lp
+10259,1341317,BWBBP,Bridgewater Bancshares Inc
+10260,1835654,INVZW,Innoviz Technologies Ltd.
+10261,73124,NTRSO,Northern Trust Corp
+10262,920112,HTLFP,Heartland Financial Usa Inc
+10263,1122491,BRFFF,Brf S.A.
+10264,712534,FRMEP,First Merchants Corp
 10265,312070,ATMP,Barclays Bank Plc
+10266,312070,AYTEF,Barclays Bank Plc
+10267,312070,BALTF,Barclays Bank Plc
+10268,312070,VXX,Barclays Bank Plc
+10269,312070,VXZ,Barclays Bank Plc
+10270,312070,SGGFF,Barclays Bank Plc
+10271,312070,JJUFF,Barclays Bank Plc
+10272,312070,PGDDF,Barclays Bank Plc
+10273,312070,PGMFF,Barclays Bank Plc
+10274,312070,JJMTF,Barclays Bank Plc
+10275,312070,JJNTF,Barclays Bank Plc
+10276,312070,JJOFF,Barclays Bank Plc
+10277,312070,JJPFF,Barclays Bank Plc
+10278,312070,JJSSF,Barclays Bank Plc
+10279,312070,JJTFF,Barclays Bank Plc
+10280,312070,ICITF,Barclays Bank Plc
+10281,312070,JEMTF,Barclays Bank Plc
+10282,312070,JJATF,Barclays Bank Plc
+10283,312070,JJCTF,Barclays Bank Plc
+10284,312070,JJETF,Barclays Bank Plc
+10285,312070,JJGTF,Barclays Bank Plc
+10286,312070,COWTF,Barclays Bank Plc
+10287,312070,DJP,Barclays Bank Plc
+10288,312070,GBBEF,Barclays Bank Plc
+10289,312070,GRN,Barclays Bank Plc
+10290,312070,GRNTF,Barclays Bank Plc
+10291,312070,BWVTF,Barclays Bank Plc
+10292,1788348,BIPH,Brookfield Infrastructure Corp
+10293,1913510,VFSWW,Vinfast Auto Ltd.
+10294,1412100,MHNC,"Maiden Holdings, Ltd."
+10295,1808377,LUCYW,Innovative Eyewear Inc
+10296,1648960,DATSW,"Datchat, Inc."
+10297,1858685,BFRIW,Biofrontera Inc.
+10298,1864448,WEJWQ,Wejo Group Ltd
+10299,1137774,PFH,Prudential Financial Inc
+10300,1137774,PRH,Prudential Financial Inc
+10301,1137774,PRS,Prudential Financial Inc
+10302,1863362,PROCW,"Procaps Group, S.A."
+10303,1819493,XOSWW,"Xos, Inc."
+10304,1903145,GRRRW,Gorilla Technology Group Inc.
 10305,1726079,TMEF,"Tipmefast, Inc."
+10306,797468,OXY-WT,Occidental Petroleum Corp /De/
+10307,1830029,ADEX-UN,Adit Edtech Acquisition Corp.
+10308,1830029,ADEX-WT,Adit Edtech Acquisition Corp.
+10309,1333986,EQH-PA,"Equitable Holdings, Inc."
+10310,1333986,EQH-PC,"Equitable Holdings, Inc."
+10311,1332349,BKDT,Brookdale Senior Living Inc.
+10312,1885408,JFBRW,Jeffs' Brands Ltd
+10313,1875931,OFSWF,Carbon Streaming Corp
+10314,1699880,AMRLF,American Lithium Corp.
+10315,1502292,CNFRL,"Conifer Holdings, Inc."
+10316,1502292,CNFRZ,"Conifer Holdings, Inc."
+10317,860748,KMPB,Kemper Corp
 10318,86759,SFEF,Santa Fe Financial Corp
+10319,1723580,BFIIW,"Burgerfi International, Inc."
 10320,1471824,WEAT,Teucrium Commodity Trust
+10321,1471824,SOYB,Teucrium Commodity Trust
+10322,1471824,TAGS,Teucrium Commodity Trust
+10323,1471824,CANE,Teucrium Commodity Trust
+10324,1471824,CORN,Teucrium Commodity Trust
+10325,1471824,DEFI,Teucrium Commodity Trust
+10326,1932737,NWTNW,"Nwtn, Inc."
+10327,35527,FITBO,Fifth Third Bancorp
+10328,35527,FITBP,Fifth Third Bancorp
+10329,1791706,LAAOF,Li Auto Inc.
+10330,1840877,ANZUU,Anzu Special Acquisition Corp I
+10331,1840877,ANZUW,Anzu Special Acquisition Corp I
+10332,1872964,MTEKW,Maris Tech Ltd.
+10333,1701963,VSSYW,Versus Systems Inc.
+10334,1828108,AUROW,"Aurora Innovation, Inc."
+10335,1821075,SFRWW,"Appreciate Holdings, Inc."
 10336,1096691,PTNRF,Partner Communications Co Ltd
+10337,1096691,PTNRY,Partner Communications Co Ltd
 10338,1888740,LSEB,Lseb Creative Corp.
+10339,823277,CHSCL,Chs Inc
+10340,823277,CHSCM,Chs Inc
+10341,823277,CHSCN,Chs Inc
+10342,823277,CHSCO,Chs Inc
+10343,1824185,HHLA-UN,Hh&L Acquisition Co.
+10344,1824185,HHLA-WT,Hh&L Acquisition Co.
+10345,1474098,PEB-PG,Pebblebrook Hotel Trust
+10346,1474098,PEB-PH,Pebblebrook Hotel Trust
+10347,1844862,SLDPW,"Solid Power, Inc."
+10348,1964021,NCNCW,Noco-Noco Inc.
+10349,1855457,KORE-WT,"Kore Group Holdings, Inc."
+10350,314808,VAL-WT,Valaris Ltd
+10351,936528,WAFDP,Washington Federal Inc
+10352,857855,UCBIO,United Community Banks Inc
+10353,1790625,AGILW,"Agilethought, Inc."
+10354,1854583,ASPAU,"Abri Spac I, Inc."
+10355,1854583,ASPAW,"Abri Spac I, Inc."
+10356,1101026,ZIVOW,"Zivo Bioscience, Inc."
+10357,1870143,RCFA-UN,Rcf Acquisition Corp.
+10358,1870143,RCFA-WT,Rcf Acquisition Corp.
+10359,1834045,VWEWW,"Vintage Wine Estates, Inc."
+10360,1509589,CIVII,"Civitas Resources, Inc."
+10361,1509589,CIVIW,"Civitas Resources, Inc."
 10362,1854526,BRQL,"Brooqly, Inc."
+10363,1909417,SLNAW,Selina Hospitality Plc
+10364,1630805,BWNB,"Babcock & Wilcox Enterprises, Inc."
+10365,1630805,BW-PA,"Babcock & Wilcox Enterprises, Inc."
+10366,1630805,BWSN,"Babcock & Wilcox Enterprises, Inc."
+10367,1413159,TGH-PB,Textainer Group Holdings Ltd
+10368,1411342,EFC-PA,Ellington Financial Inc.
+10369,1411342,EFC-PB,Ellington Financial Inc.
+10370,1411342,EFC-PC,Ellington Financial Inc.
+10371,1812173,RBOT-WT,Vicarious Surgical Inc.
+10372,1413159,TGH-PA,Textainer Group Holdings Ltd
+10373,1855474,XPDBU,Power & Digital Infrastructure Acquisition Ii Corp.
+10374,1855474,XPDBW,Power & Digital Infrastructure Acquisition Ii Corp.
+10375,36104,USB-PQ,Us Bancorp De
+10376,36104,USB-PR,Us Bancorp De
+10377,1332174,IFXAF,Ishares S&P Gsci Commodity-Indexed Trust
+10378,1332174,ISMCF,Ishares S&P Gsci Commodity-Indexed Trust
+10379,28917,DDT,"Dillard'S, Inc."
+10380,1735041,GTECW,Greenland Technologies Holding Corp.
+10381,37996,F-PB,Ford Motor Co
+10382,37996,F-PC,Ford Motor Co
+10383,37996,F-PD,Ford Motor Co
+10384,1400891,IHETW,"Iheartmedia, Inc."
+10385,947263,TDBKF,Toronto Dominion Bank
+10386,947263,TNTTF,Toronto Dominion Bank
+10387,1000275,RYBPF,Royal Bank Of Canada
+10388,947263,TDBCP,Toronto Dominion Bank
+10389,1468091,VNLTF,Veon Ltd.
+10390,895728,ENBHF,Enbridge Inc
+10391,895728,EBGEF,Enbridge Inc
+10392,895728,EBRGF,Enbridge Inc
+10393,895728,EBRZF,Enbridge Inc
+10394,895728,ENBFF,Enbridge Inc
+10395,895728,ENBGF,Enbridge Inc
+10396,895728,ENBRF,Enbridge Inc
+10397,895728,ENNPF,Enbridge Inc
+10398,895728,EBBGF,Enbridge Inc
+10399,1853436,MPRAU,Mercato Partners Acquisition Corp
+10400,1853436,MPRAW,Mercato Partners Acquisition Corp
+10401,1308106,SEAL-PB,Seapeak Llc
+10402,1308106,SEAL-PA,Seapeak Llc
+10403,948320,LFMDP,"Lifemd, Inc."
+10404,1579684,NWDVW,"Gannett Co., Inc."
+10405,1760764,GMVWF,G Medical Innovations Holdings Ltd.
+10406,936340,DTB,Dte Energy Co
+10407,936340,DTG,Dte Energy Co
+10408,36104,USB-PS,Us Bancorp De
+10409,763901,BPOPM,"Popular, Inc."
+10410,1815849,ATIPW,"Ati Physical Therapy, Inc."
 10411,1721056,HSCT,Hoops Scouting Usa
+10412,1610820,BCTXW,Briacell Therapeutics Corp.
 10413,1467845,KUSA,"Kashin, Inc."
 10414,1357878,RGPX,"Regenerex Pharma, Inc."
+10415,1937441,AMBI-WT,Ambipar Emergency Response
+10416,1843656,AMAOU,American Acquisition Opportunity Inc.
+10417,1843656,AMAOW,American Acquisition Opportunity Inc.
+10418,1518461,AMPGW,"Amplitech Group, Inc."
 10419,1114446,AMUB,Ubs Ag
+10420,1114446,AMTR,Ubs Ag
+10421,1114446,AMNA,Ubs Ag
+10422,1114446,AMND,Ubs Ag
+10423,1882963,AIBBR,Aib Acquisition Corp
+10424,1882963,AIBBU,Aib Acquisition Corp
+10425,1903464,AIMAU,Aimfinity Investment Corp. I
+10426,1903464,AIMAW,Aimfinity Investment Corp. I
+10427,1903464,AIMBU,Aimfinity Investment Corp. I
+10428,1267238,AIZN,"Assurant, Inc."
+10429,1883962,ALORU,Alsp Orchid Acquisition Corp I
+10430,1883962,ALORW,Alsp Orchid Acquisition Corp I
+10431,6176,AP-WT,Ampco Pittsburgh Corp
+10432,1861841,ARBEW,Arbe Robotics Ltd.
+10433,1841675,ARBKL,Argo Blockchain Plc
+10434,1648087,AREBW,American Rebel Holdings Inc
+10435,1590715,ARECW,American Resources Corp
+10436,1428205,ARR-PC,"Armour Residential Reit, Inc."
+10437,1844981,APACU,Stonebridge Acquisition Corp.
+10438,1844981,APACW,Stonebridge Acquisition Corp.
+10439,1838337,APGB-UN,Apollo Strategic Growth Capital Ii
+10440,1838337,APGB-WT,Apollo Strategic Growth Capital Ii
+10441,1881741,AOGOU,Arogo Capital Acquisition Corp.
+10442,1881741,AOGOW,Arogo Capital Acquisition Corp.
+10443,1893219,ACABU,Atlantic Coastal Acquisition Corp. Ii
+10444,1893219,ACABW,Atlantic Coastal Acquisition Corp. Ii
+10445,1411494,AAM-PA,"Apollo Asset Management, Inc."
+10446,1411494,AAM-PB,"Apollo Asset Management, Inc."
+10447,1503290,ACP-PA,Abrdn Income Credit Strategies Fund
+10448,1042046,AFGD,American Financial Group Inc
+10449,1042046,AFGE,American Financial Group Inc
+10450,1903870,AFRIW,Forafric Global Plc
+10451,1042046,AFGB,American Financial Group Inc
+10452,1769624,AGBAW,Agba Group Holding Ltd.
+10453,1824884,ADOCR,Edoc Acquisition Corp.
+10454,1824884,ADOCW,Edoc Acquisition Corp.
+10455,1838672,ADTHW,"Adtheorent Holding Company, Inc."
+10456,1823584,AENTW,Alliance Entertainment Holding Corp
+10457,1039828,AEL-PA,American Equity Investment Life Holding Co
+10458,1039828,AEL-PB,American Equity Investment Life Holding Co
+10459,1789029,AEVA-WT,"Aeva Technologies, Inc."
+10460,879911,AERGP,"Applied Energetics, Inc."
+10461,1810140,POLSW,Polished.Com Inc.
+10462,1163739,NBRWF,Nabors Industries Ltd
+10463,1711570,URCWF,Uranium Royalty Corp.
+10464,898174,RZC,Reinsurance Group Of America Inc
+10465,1488813,CUBB,"Customers Bancorp, Inc."
+10466,1829432,AAC-UN,Ares Acquisition Corp
+10467,1829432,AAC-WT,Ares Acquisition Corp
+10468,1823794,ARKOW,Arko Corp.
 10469,1758699,TRSO,Transuite.Org Inc.
+10470,1798562,TMCWW,Tmc The Metals Co Inc.
+10471,1861449,BRDS-WT,"Bird Global, Inc."
+10472,1847351,BRD-UN,Beard Energy Transition Acquisition Corp.
+10473,1847351,BRD-WT,Beard Energy Transition Acquisition Corp.
+10474,1774983,BROGW,Brooge Energy Ltd
+10475,1545772,BPYPM,Brookfield Property Partners L.P.
+10476,1545772,BPYPN,Brookfield Property Partners L.P.
+10477,1545772,BPYPO,Brookfield Property Partners L.P.
+10478,1114446,CEFD,Ubs Ag
+10479,39263,CFR-PB,"Cullen/Frost Bankers, Inc."
+10480,1828250,CCVI-UN,Churchill Capital Corp Vi
+10481,1828250,CCVI-WT,Churchill Capital Corp Vi
+10482,1800682,CANO-WT,"Cano Health, Inc."
+10483,1299939,CADE-PA,Cadence Bank
+10484,1878074,BWAQR,Blue World Acquisition Corp
+10485,1878074,BWAQU,Blue World Acquisition Corp
+10486,1878074,BWAQW,Blue World Acquisition Corp
+10487,896493,AULT-PD,"Ault Alliance, Inc."
+10488,1860805,ASTLW,Algoma Steel Group Inc.
+10489,1527469,ATH-PB,Athene Holding Ltd
+10490,1527469,ATH-PC,Athene Holding Ltd
+10491,1527469,ATH-PD,Athene Holding Ltd
+10492,1527469,ATH-PE,Athene Holding Ltd
+10493,1889106,ATMCR,Alphatime Acquisition Corp
+10494,1889106,ATMCU,Alphatime Acquisition Corp
+10495,1889106,ATMCW,Alphatime Acquisition Corp
+10496,1831270,BITE-UN,Bite Acquisition Corp.
+10497,1831270,BITE-WT,Bite Acquisition Corp.
+10498,1880441,BFAC-UN,Battery Future Acquisition Corp.
+10499,1880441,BFAC-WT,Battery Future Acquisition Corp.
+10500,1398805,BEEMW,Beam Global
+10501,1114446,BDCX,Ubs Ag
+10502,1114446,BDCZ,Ubs Ag
+10503,1819574,BARK-WT,"Bark, Inc."
+10504,760498,BANFP,Bancfirst Corp /Ok/
+10505,1527166,CGABL,Carlyle Group Inc.
+10506,1819989,CIFRW,Cipher Mining Inc.
+10507,1862150,CINGW,Cingulate Inc.
+10508,1476045,CLDT-PA,Chatham Lodging Trust
+10509,1867443,CNGLU,Canna-Global Acquisition Corp
+10510,1867443,CNGLW,Canna-Global Acquisition Corp
+10511,927628,COF-PI,Capital One Financial Corp
+10512,927628,COF-PJ,Capital One Financial Corp
+10513,927628,COF-PK,Capital One Financial Corp
+10514,927628,COF-PL,Capital One Financial Corp
+10515,927628,COF-PN,Capital One Financial Corp
+10516,1903392,CLRCR,Climaterock
+10517,1903392,CLRCU,Climaterock
+10518,1903392,CLRCW,Climaterock
+10519,1829953,COOLU,Corner Growth Acquisition Corp.
+10520,1829953,COOLW,Corner Growth Acquisition Corp.
+10521,1823000,CONXU,Conx Corp.
+10522,1823000,CONXW,Conx Corp.
+10523,922247,CYTHW,"Cyclo Therapeutics, Inc."
+10524,1856242,CXAC-UN,C5 Acquisition Corp
+10525,1856242,CXAC-WT,C5 Acquisition Corp
+10526,1776909,CURIW,Curiositystream Inc.
+10527,1583771,CTRVP,"Hepion Pharmaceuticals, Inc."
+10528,1834032,CSTA-UN,Constellation Acquisition Corp I
+10529,1834032,CSTA-WT,Constellation Acquisition Corp I
+10530,1889123,EMLDU,Ftac Emerald Acquisition Corp.
+10531,1889123,EMLDW,Ftac Emerald Acquisition Corp.
+10532,1855555,ENERR,Accretion Acquisition Corp.
+10533,1855555,ENERU,Accretion Acquisition Corp.
+10534,1855555,ENERW,Accretion Acquisition Corp.
+10535,1869601,EMCGR,Embrace Change Acquisition Corp.
+10536,1869601,EMCGU,Embrace Change Acquisition Corp.
+10537,1869601,EMCGW,Embrace Change Acquisition Corp.
+10538,826675,DX-PC,Dynex Capital Inc
+10539,1809750,EDBLW,Edible Garden Ag Inc
+10540,1828522,EFTRW,"Effector Therapeutics, Inc."
 10541,1053092,DSLVF,Credit Suisse Ag
+10542,1871745,DSAQ-UN,Direct Selling Acquisition Corp.
+10543,1871745,DSAQW,Direct Selling Acquisition Corp.
+10544,1880613,DRCTW,"Direct Digital Holdings, Inc."
+10545,1114446,DJCB,Ubs Ag
+10546,1915380,DMYY-UN,"Dmy Squared Technology Group, Inc."
+10547,1915380,DMYY-WT,"Dmy Squared Technology Group, Inc."
+10548,949039,DODRW,"Diamond Offshore Drilling, Inc."
+10549,1830214,DNA-WT,"Ginkgo Bioworks Holdings, Inc."
+10550,1053092,DGLDF,Credit Suisse Ag
+10551,1838163,DHCAU,Dhc Acquisition Corp.
+10552,1838163,DHCAW,Dhc Acquisition Corp.
+10553,1668010,DBGIW,"Digital Brands Group, Inc."
+10554,1913577,DECAU,Denali Capital Acquisition Corp.
+10555,1913577,DECAW,Denali Capital Acquisition Corp.
+10556,1836176,FATH-WT,Fathom Digital Manufacturing Corp
+10557,915191,FAXRF,Fairfax Financial Holdings Ltd/ Can
+10558,1114446,FBGX,Ubs Ag
+10559,798941,FCNCO,First Citizens Bancshares Inc /De/
+10560,798941,FCNCP,First Citizens Bancshares Inc /De/
+10561,886128,FCELB,Fuelcell Energy Inc
+10562,1114446,FEDL,Ubs Ag
+10563,1867102,EVTL-WT,Vertical Aerospace Ltd.
+10564,1805385,EVLVW,"Evolv Technologies Holdings, Inc."
+10565,1800347,ETWO-WT,"E2Open Parent Holdings, Inc."
+10566,1114446,ESUS,Ubs Ag
+10567,1506307,EP-PC,"Kinder Morgan, Inc."
+10568,1843762,EQRXW,"Eqrx, Inc."
+10569,915191,FFHPF,Fairfax Financial Holdings Ltd/ Can
+10570,862831,FIISO,Financial Institutions Inc
+10571,1828937,FOA-WT,Finance Of America Companies Inc.
+10572,1026214,FMCKK,Federal Home Loan Mortgage Corp
+10573,1753706,FREEW,"Whole Earth Brands, Inc."
+10574,1666175,FORFF,Fortis Inc.
+10575,883569,FOSLL,"Fossil Group, Inc."
+10576,1026214,FREJP,Federal Home Loan Mortgage Corp
+10577,915191,FRFZF,Fairfax Financial Holdings Ltd/ Can
+10578,1848731,GHBWF,Glass House Brands Inc.
+10579,921671,GGT-PG,Gabelli Multimedia Trust Inc.
+10580,1894630,GHIXU,"Gores Holdings Ix, Inc."
+10581,1894630,GHIXW,"Gores Holdings Ix, Inc."
+10582,1323468,GLP-PB,Global Partners Lp
+10583,1053092,GLDI,Credit Suisse Ag
+10584,1888734,GLLIR,Globalink Investment Inc.
+10585,1888734,GLLIU,Globalink Investment Inc.
+10586,1888734,GLLIW,Globalink Investment Inc.
+10587,1866547,GMFIU,Aetherium Acquisition Corp
+10588,1866547,GMFIW,Aetherium Acquisition Corp
+10589,1805087,GLSHW,"Gelesis Holdings, Inc."
+10590,1451448,GMBLP,"Esports Entertainment Group, Inc."
+10591,1451448,GMBLW,"Esports Entertainment Group, Inc."
+10592,1451448,GMBLZ,"Esports Entertainment Group, Inc."
+10593,1855612,GRABW,Grab Holdings Ltd
+10594,832489,GOVXW,"Geovax Labs, Inc."
+10595,1804469,GFAIW,"Guardforce Ai Co., Ltd."
+10596,1839608,GETR-WT,"Getaround, Inc"
+10597,1845459,GFOR-UN,Graf Acquisition Corp. Iv
+10598,1845459,GFOR-WT,Graf Acquisition Corp. Iv
+10599,1876714,GFGDR,Growth For Good Acquisition Corp
+10600,1876714,GFGDU,Growth For Good Acquisition Corp
+10601,1876714,GFGDW,Growth For Good Acquisition Corp
+10602,1260729,GDV-PK,Gabelli Dividend & Income Trust
+10603,1894951,GBBKR,Global Blockchain Acquisition Corp.
+10604,1894951,GBBKW,Global Blockchain Acquisition Corp.
+10605,1799983,GB-WT,Global Blue Group Holding Ag
+10606,1666175,FTRSF,Fortis Inc.
+10607,1840161,FRXB-UN,Forest Road Acquisition Corp. Ii
+10608,1840161,FRXB-WT,Forest Road Acquisition Corp. Ii
+10609,915191,FXFHF,Fairfax Financial Holdings Ltd/ Can
+10610,700564,FULTP,Fulton Financial Corp
+10611,1649009,SYTAW,Siyata Mobile Inc.
+10612,1894693,SVREW,Saverone 2014 Ltd.
+10613,1875609,SWVLW,Swvl Holdings Corp
 10614,1793497,SVIX,Vs Trust
+10615,707388,STRRP,"Star Equity Holdings, Inc."
+10616,1032208,SREA,Sempra
+10617,1509470,SSSSL,Suro Capital Corp.
 10618,1885336,SSTC,"Sensasure Technologies, Inc."
 10619,1087711,STNDF,Santander Uk Plc
+10620,1021096,TRKAW,"Troika Media Group, Inc."
+10621,1879814,TLGYU,Tlgy Acquisition Corp
+10622,1879814,TLGYW,Tlgy Acquisition Corp
+10623,1712189,THWWW,Target Hospitality Corp.
+10624,92230,TFC-PI,Truist Financial Corp
+10625,92230,TFC-PO,Truist Financial Corp
+10626,92230,TFC-PR,Truist Financial Corp
+10627,1051512,TDS-PU,Telephone & Data Systems Inc /De/
+10628,1051512,TDS-PV,Telephone & Data Systems Inc /De/
+10629,1900679,TETEU,Technology & Telecommunication Acquisition Corp
+10630,1900679,TETEW,Technology & Telecommunication Acquisition Corp
+10631,1846750,TCOA-UN,Zalatoris Acquisition Corp.
+10632,1846750,TCOA-WT,Zalatoris Acquisition Corp.
+10633,1844417,UPTDU,Tradeup Acquisition Corp.
+10634,1844417,UPTDW,Tradeup Acquisition Corp.
+10635,1830188,UHGWW,"United Homes Group, Inc."
+10636,884614,UGIC,Ugi Corp /Pa/
+10637,1053092,UGLDF,Credit Suisse Ag
+10638,1114446,UCIB,Ubs Ag
+10639,100826,UEPCO,Union Electric Co
+10640,1053092,UGAZF,Credit Suisse Ag
+10641,910267,TTNPW,Titan Pharmaceuticals Inc
+10642,1053092,TVIXF,Credit Suisse Ag
+10643,1630472,TRTX-PC,"Tpg Re Finance Trust, Inc."
+10644,1863006,VLN-WT,Valens Semiconductor Ltd.
+10645,1892747,VMCAU,Valuence Merger Corp. I
+10646,1892747,VMCAW,Valuence Merger Corp. I
+10647,1104038,VRMEW,"Verifyme, Inc."
+10648,1692819,VST-WTA,Vistra Corp.
+10649,1053092,VIIXF,Credit Suisse Ag
+10650,1053092,USOI,Credit Suisse Ag
+10651,1053092,USLVF,Credit Suisse Ag
+10652,1114446,USML,Ubs Ag
+10653,1266806,VANIW,"Vivani Medical, Inc."
+10654,1783398,UWMC-WT,Uwm Holdings Corp
+10655,1793497,UVIX,Vs Trust
+10656,1096275,WKSPW,Worksport Ltd
+10657,946486,WINTW,Windtree Therapeutics Inc /De/
+10658,1015328,WTFCP,Wintrust Financial Corp
+10659,1114446,WUCT,Ubs Ag
+10660,1866226,WTMAR,Welsbach Technology Metals Acquisition Corp.
+10661,1866226,WTMAU,Welsbach Technology Metals Acquisition Corp.
+10662,1527541,WHLRL,"Wheeler Real Estate Investment Trust, Inc."
+10663,801337,WBS-PG,Webster Financial Corp
+10664,1866501,WBX-WT,Wallbox N.V.
+10665,929008,WCC-PA,Wesco International Inc
+10666,1868419,WAVSU,Western Acquisition Ventures Corp.
+10667,1868419,WAVSW,Western Acquisition Ventures Corp.
+10668,1212545,WAL-PA,Western Alliance Bancorporation
+10669,1855644,ZURAW,Zura Bio Ltd
+10670,1841761,GROVW,"Grove Collaborative Holdings, Inc."
 10671,1662972,BSTT,"Blackstone Real Estate Income Trust, Inc."
+10672,1945422,OAKUR,Oak Woods Acquisition Corp
 10673,1796949,HCBR,"Healthcare Business Resources, Inc."
 10674,1832034,MHLGS,370 Markets Llc
 10675,1918884,MTRC,Metaterra Corp.
+10676,1832034,MKHVS,370 Markets Llc
+10677,1973056,BOWNR,Bowen Acquisition Corp
+10678,1832034,MSVYS,370 Markets Llc
+10679,1431852,ODVWW,Osisko Development Corp.
+10680,1009829,JAKP,Jakks Pacific Inc
+10681,1852767,MRT-WT,"Marti Technologies, Inc."
 10682,1469115,RDGH,Ridgedale Holdings Inc.
+10683,1534525,XBIOW,"Xenetic Biosciences, Inc."
+10684,791908,XOMAO,Xoma Corp
+10685,791908,XOMAP,Xoma Corp
+10686,1053092,ZIVZF,Credit Suisse Ag
+10687,1814287,ABLLW,"Abacus Life, Inc."
+10688,1840776,HGTPW,"Hagerty, Inc."
+10689,1884082,PLSAY,Polestar Automotive Holding Uk Plc
+10690,1442655,NGKSF,"Ngk Spark Plug Co., Ltd."
 10691,1765651,PSPX,Pacific Sports Exchange Inc.
 10692,1781629,ANKM,Ankam Inc.
+10693,1853397,ZLSWW,Zalatoris Ii Acquisition Corp
+10694,1973056,BOWNU,Bowen Acquisition Corp
+10695,1838987,CSLRW,"Complete Solaria, Inc."
+10696,1858681,APOS,"Apollo Global Management, Inc."
+10697,1372920,NWOEF,New Oriental Education & Technology Group Inc.
+10698,1552198,WHFCL,"Whitehorse Finance, Inc."
+10699,1853397,ZLSWU,Zalatoris Ii Acquisition Corp
+10700,1446705,NTTDF,Ntt Data Corp
 10701,1931055,MDNC,Medinotec Inc.
+10702,1389207,GFSAY,Gafisa S.A.
+10703,1865697,GGAWF,Genesis Growth Tech Acquisition Corp.
+10704,1512673,BSQKZ,"Block, Inc."
+10705,1958217,LZM-WT,Lifezone Metals Ltd
+10706,1826667,TLSIW,"Trisalus Life Sciences, Inc."
+10707,1851230,CRWWF,Crescera Capital Acquisition Corp.
+10708,862831,FIISP,Financial Institutions Inc
 10709,1887912,WLSS,Welsis Corp.
+10710,1087711,SNTUF,Santander Uk Plc
+10711,886744,GERNW,Geron Corp
+10712,1934945,TBMCR,Trailblazer Merger Corp I
 10713,1893657,RLEA,Rubber Leaf Inc
+10714,1865697,GGAUF,Genesis Growth Tech Acquisition Corp.
+10715,1560293,TNONW,"Tenon Medical, Inc."
+10716,1823882,MIMWW,Airspan Networks Holdings Inc.
 10717,1733861,RTEZ,Rest Ez Inc.
+10718,1851230,CREUF,Crescera Capital Acquisition Corp.
 10719,1843862,EOCWF,Elliott Opportunity Ii Corp.
+10720,1945422,OAKUW,Oak Woods Acquisition Corp
 10721,1698538,STSR,"Strategic Student & Senior Housing Trust, Inc."
 10722,874710,AHPIQ,Allied Healthcare Products Inc
+10723,1490349,PFXNZ,Phenixfin Corp
+10724,1853580,PFTAU,Portage Fintech Acquisition Corp.
+10725,1853580,PFTAW,Portage Fintech Acquisition Corp.
+10726,1512922,PETVW,"Petvivo Holdings, Inc."
+10727,1842356,PETWW,Wag! Group Co.
+10728,1114446,PFFL,Ubs Ag
+10729,1259429,OXSQZ,Oxford Square Capital Corp.
+10730,1259429,OXSQG,Oxford Square Capital Corp.
+10731,1852973,OXUSU,Oxus Acquisition Corp.
+10732,1852973,OXUSW,Oxus Acquisition Corp.
+10733,1102112,PACWP,Pacwest Bancorp
+10734,1624326,PAVMZ,Pavmed Inc.
+10735,1876431,PRENW,Prenetics Global Ltd
+10736,911421,PRE-PJ,Partnerre Ltd
+10737,1821606,PMGMU,Priveterra Acquisition Corp. Ii
+10738,1821606,PMGMW,Priveterra Acquisition Corp. Ii
+10739,1834645,PKBOW,"Peak Bio, Inc."
+10740,1833835,PSFE-WT,Paysafe Ltd
+10741,1287032,PSEC-PA,Prospect Capital Corp
+10742,1821329,PRPC-UN,Cc Neuberger Principal Holdings Iii
+10743,1821329,PRPC-WT,Cc Neuberger Principal Holdings Iii
+10744,1022899,PTIXW,"Protagenic Therapeutics, Inc.New"
+10745,1532619,PW-PA,Power Reit
+10746,1945422,OAKUU,Oak Woods Acquisition Corp
+10747,1820175,OCAXU,Oca Acquisition Corp.
+10748,1820175,OCAXW,Oca Acquisition Corp.
+10749,910073,NYCB-PU,New York Community Bancorp Inc
+10750,1527352,NXLIW,"Nexalin Technology, Inc."
+10751,1468929,NXGLW,"Nexgel, Inc."
+10752,707179,ONBPO,Old National Bancorp /In/
+10753,707179,ONBPP,Old National Bancorp /In/
+10754,1825024,OPAD-WT,Offerpad Solutions Inc.
+10755,1866816,OLITU,Omnilit Acquisition Corp.
+10756,1866816,OLITW,Omnilit Acquisition Corp.
+10757,1865631,NNAVW,Nextnav Inc.
 10758,13372,NSARO,Nstar Electric Co
+10759,13372,NSARP,Nstar Electric Co
+10760,1875091,NRSNW,Neurosense Therapeutics Ltd.
+10761,1858028,NOVVR,Nova Vision Acquisition Corp
+10762,1858028,NOVVU,Nova Vision Acquisition Corp
+10763,1858028,NOVVW,Nova Vision Acquisition Corp
+10764,1812727,RELIW,"Reliance Global Group, Inc."
+10765,1810560,REVBW,"Revelation Biosciences, Inc."
+10766,1874218,RCACW,Revelstone Capital Acquisition Corp.
+10767,1697851,REKRW,"Rekor Systems, Inc."
+10768,1324948,RBCP,Rbc Bearings Inc
+10769,1114446,QULL,Ubs Ag
+10770,1816431,QSIAW,Quantum-Si Inc
+10771,1860484,RACYU,Relativity Acquisition Corp
+10772,1860484,RACYW,Relativity Acquisition Corp
+10773,1830795,QFTAW,Quantum Fintech Acquisition Corp
+10774,1464790,RILYG,"B. Riley Financial, Inc."
+10775,1464790,RILYK,"B. Riley Financial, Inc."
+10776,1464790,RILYL,"B. Riley Financial, Inc."
+10777,1464790,RILYM,"B. Riley Financial, Inc."
+10778,1464790,RILYN,"B. Riley Financial, Inc."
+10779,1464790,RILYO,"B. Riley Financial, Inc."
+10780,1464790,RILYP,"B. Riley Financial, Inc."
+10781,1464790,RILYT,"B. Riley Financial, Inc."
+10782,1464790,RILYZ,"B. Riley Financial, Inc."
+10783,1501072,RIV-PA,"Rivernorth Opportunities Fund, Inc."
+10784,913144,RNR-PG,Renaissancere Holdings Ltd
+10785,1838108,RMGCU,Rmg Acquisition Corp. Iii
+10786,1838108,RMGCW,Rmg Acquisition Corp. Iii
+10787,1568162,RTLPO,"Necessity Retail Reit, Inc."
+10788,1568162,RTLPP,"Necessity Retail Reit, Inc."
+10789,1824403,RSVRW,"Reservoir Media, Inc."
+10790,1860879,RRAC-UN,Rigel Resource Acquisition Corp.
+10791,1860879,RRAC-WT,Rigel Resource Acquisition Corp.
+10792,1743905,RVSNW,Rail Vision Ltd.
+10793,930236,RWT-PA,Redwood Trust Inc
+10794,1869824,SGIIU,Seaport Global Acquisition Ii Corp.
+10795,1869824,SGIIW,Seaport Global Acquisition Ii Corp.
+10796,1819142,SES-WT,Ses Ai Corp
+10797,1849902,SEPAU,Sep Acquisition Corp.
+10798,1849902,SEPAW,Sep Acquisition Corp.
+10799,1915403,SATX-WTA,Satixfy Communications Ltd.
+10800,1483934,SBBA,Scorpio Tankers Inc.
+10801,316709,SCHW-PJ,Schwab Charles Corp
+10802,1114446,SCDL,Ubs Ag
+10803,1893325,SCRMU,Screaming Eagle Acquisition Corp.
+10804,1893325,SCRMW,Screaming Eagle Acquisition Corp.
+10805,1114446,SMHB,Ubs Ag
+10806,1822966,SMR-WT,Nuscale Power Corp
 10807,1817218,SPKX,Convexityshares Trust
+10808,1817218,SPKY,Convexityshares Trust
+10809,1840856,SOUNW,"Soundhound Ai, Inc."
+10810,1053092,SLVO,Credit Suisse Ag
+10811,1823587,SKYH-WT,Sky Harbour Group Corp
+10812,1755953,KERNW,Akerna Corp.
+10813,1831359,JWSM-UN,Jaws Mustang Acquisition Corp
+10814,1831359,JWSM-WT,Jaws Mustang Acquisition Corp
+10815,1729750,KBNTW,"Kubient, Inc."
+10816,1865468,KACLR,Kairous Acquisition Corp. Ltd
+10817,1865468,KACLU,Kairous Acquisition Corp. Ltd
+10818,1865468,KACLW,Kairous Acquisition Corp. Ltd
+10819,1857410,IVCBU,Investcorp Europe Acquisition Corp I
+10820,1857410,IVCBW,Investcorp Europe Acquisition Corp I
+10821,1114446,IWDL,Ubs Ag
+10822,1114446,IWFL,Ubs Ag
+10823,1114446,IWML,Ubs Ag
+10824,1817868,JAQCU,Jupiter Acquisition Corp
+10825,1817868,JAQCW,Jupiter Acquisition Corp
+10826,1837493,IINNW,Inspira Technologies Oxy B.H.N. Ltd
+10827,1846235,IMAQR,International Media Acquisition Corp.
+10828,1846235,IMAQU,International Media Acquisition Corp.
+10829,1846235,IMAQW,International Media Acquisition Corp.
+10830,51434,INPAP,International Paper Co /New/
+10831,1850262,INTEU,Integral Acquisition Corp 1
+10832,1850262,INTEW,Integral Acquisition Corp 1
+10833,1562463,INBKZ,First Internet Bancorp
+10834,1841586,ITAQU,"Industrial Tech Acquisitions Ii, Inc."
+10835,1841586,ITAQW,"Industrial Tech Acquisitions Ii, Inc."
+10836,933267,IRS-WT,Irsa Investments & Representations Inc
+10837,1831874,IRAAU,Iris Acquisition Corp
+10838,1831874,IRAAW,Iris Acquisition Corp
+10839,1373670,GRBK-PA,"Green Brick Partners, Inc."
+10840,1662574,GROMW,"Grom Social Enterprises, Inc."
+10841,1738758,GSMGW,Glory Star New Media Group Holdings Ltd
+10842,49196,HBANL,Huntington Bancshares Inc /Md/
+10843,49196,HBANM,Huntington Bancshares Inc /Md/
+10844,49196,HBANP,Huntington Bancshares Inc /Md/
+10845,1822886,HHGCR,Hhg Capital Corp
+10846,1822886,HHGCU,Hhg Capital Corp
+10847,1822886,HHGCW,Hhg Capital Corp
+10848,1114446,HDLB,Ubs Ag
+10849,1842937,HCVIU,Hennessy Capital Investment Corp. Vi
+10850,1842937,HCVIW,Hennessy Capital Investment Corp. Vi
+10851,1114446,IFED,Ubs Ag
+10852,1831868,ICUCW,Seastar Medical Holding Corp
+10853,750577,HWCPZ,Hancock Whitney Corp
+10854,4281,HWM-P,Howmet Aerospace Inc.
+10855,1716583,HYZNW,Hyzon Motors Inc.
+10856,1708176,HOFVW,Hall Of Fame Resort & Entertainment Co
+10857,1840776,HGTY-WT,"Hagerty, Inc."
+10858,1849475,NCACW,Newcourt Acquisition Corp
+10859,1587987,NEWTL,"Newtekone, Inc."
+10860,1587987,NEWTZ,"Newtekone, Inc."
+10861,1114446,MTUL,Ubs Ag
+10862,1114446,MVRL,Ubs Ag
+10863,66004,MSEXP,Middlesex Water Co
+10864,1084267,MOBQW,"Mobiquity Technologies, Inc."
+10865,1863719,MNTN-UN,Everest Consolidator Acquisition Corp
+10866,1863719,MNTN-WT,Everest Consolidator Acquisition Corp
+10867,1114446,MLPB,Ubs Ag
+10868,1053092,MLPO,Credit Suisse Ag
+10869,1114446,MLPR,Ubs Ag
+10870,1847440,MITAU,Coliseum Acquisition Corp.
+10871,1847440,MITAW,Coliseum Acquisition Corp.
+10872,1856995,MCAAU,Mountain & Co. I Acquisition Corp.
+10873,1856995,MCAAW,Mountain & Co. I Acquisition Corp.
+10874,1796514,METXW,Btc Digital Ltd.
+10875,1611983,LBRDP,Liberty Broadband Corp
+10876,1806524,LGHLW,Lion Group Holding Ltd
+10877,1818644,LIDRW,"Aeye, Inc."
+10878,1847577,LCW-UN,Learn Cw Investment Corp
+10879,1847577,LCW-WT,Learn Cw Investment Corp
+10880,1834974,LEV-WT,Lion Electric Co
+10881,1834974,LEV-WTA,Lion Electric Co
+10882,1823086,KWACU,Kingswood Acquisition Corp.
+10883,1823086,KWACW,Kingswood Acquisition Corp.
+10884,1832950,KRNLU,"Kernel Group Holdings, Inc."
+10885,1832950,KRNLW,"Kernel Group Holdings, Inc."
+10886,1721386,LSEAW,Landsea Homes Corp
+10887,1835512,LLAP-WT,Terran Orbital Corp
+10888,1685428,LMDXW,Lumiradx Ltd
+10889,59558,LNC-PD,Lincoln National Corp
+10890,1875257,LIVBU,Liv Capital Acquisition Corp. Ii
+10891,1875257,LIVBW,Liv Capital Acquisition Corp. Ii
+10892,1496254,LTCFX,Alternative Strategies Fund
+10893,1945711,LVROW,Lavoro Ltd
+10894,1898795,LVWR-WT,"Livewire Group, Inc."
+10895,1837344,MBTCR,Nocturne Acquisition Corp
+10896,1837344,MBTCU,Nocturne Acquisition Corp
+10897,1779474,MAPSW,"Wm Technology, Inc."
