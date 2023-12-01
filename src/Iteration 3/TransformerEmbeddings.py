@@ -225,16 +225,18 @@ class TransformerEmbeddings():
         return inputs.input_ids
     
     def train(self,data,epochs=1):
+        self.model.train()
         tensorData = self.getTensor(data)
         for epoch in range(epochs):
             if epoch % 10 == 0:
-                print("epoch %s" % epoch+1)
+                print("epoch %s" % (epoch+1))
             self.model.forward(tensorData)
     
     def getEmbeddings(self,q):
         self.model.eval()
         inputs = self.getTensor(q)
         with torch.no_grad():
+            #CHANGE THIS
             x = self.model(inputs).cpu().detach().numpy()
             return x
         

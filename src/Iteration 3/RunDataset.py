@@ -27,7 +27,7 @@ class runDataset():
             self.Embeddings=TransformerEmbeddings()
             if ("epochs" not in model.keys()):
                 model["epochs"] = 3
-            #self.Embeddings.train(model["data"],epochs=model["epochs"])
+            self.Embeddings.train(model["data"],epochs=model["epochs"])
         elif (model["name"] == "BERT"):
             self.Embeddings=BERTEmbeddings()
         elif (model["name"] == "OpenAI"):

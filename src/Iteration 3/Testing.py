@@ -11,33 +11,49 @@ key = os.environ.get("OPENAI_KEY")
 
 class RunDatasetTest(unittest.TestCase):
    
-    def getModel(self,data):
+    def getModel(self,data,epochs):
         return {
             "name" : "Transformer",
             "data" : data,
-            "epochs": 1,
+            "epochs": epochs,
             "api_key":key
         }
     
     def setUp(self):
+        pass
+        
+    # def test1(self):
+    #     secDataPath = "../../inputs/SEC-CompanyTicker.csv"
+    #     self.secData = list(pd.read_csv(secDataPath,index_col=0).companyName[:100])
+    #     self.secModel = self.getModel(self.secData,epochs=100)
+    #     self.SECSearch = runDataset(self.secModel)
 
-        secDataPath = "../../inputs/SEC-CompanyTicker.csv"
-        self.secData = list(pd.read_csv(secDataPath,index_col=0).companyName[:100])
-        self.secModel = self.getModel(self.secData)
-        self.SECSearch = runDataset(self.secModel)
+    #     solution = "Shell Plc"
+    #     result = self.SECSearch.similaritySearch(["Shell"],k=3)   
+    #     print(result)
+    #     self.assertIn(solution, result)
 
-    def test1(self):
-        solution = "Shell Plc"
-        result = self.SECSearch.similaritySearch(["Shell Plc"],k=3)   
-        self.assertIn(solution, result)
+    #     solution = "Chevron Corp"
+    #     result = self.SECSearch.similaritySearch(["Chevron"],k=3) 
+    #     print(result)
+    #     self.assertIn(solution, result)
+
 
     def test2(self):
-        # print(self.secData[24])
+        secDataPath = "../../inputs/SEC-CompanyTicker.csv"
+        self.secData = list(pd.read_csv(secDataPath,index_col=0).companyName[:300])
+        self.secModel = self.getModel(self.secData, epochs=20)
+        self.SECSearch = runDataset(self.secModel)
+
+        solution = "Shell Plc"
+        result = self.SECSearch.similaritySearch(["shell"],k=3)   
+        print(result)
+        self.assertIn(solution, result)
+
         solution = "Chevron Corp"
         result = self.SECSearch.similaritySearch(["Chevron"],k=3) 
         print(result)
         self.assertIn(solution, result)
-
 
 
 if __name__ == '__main__':
