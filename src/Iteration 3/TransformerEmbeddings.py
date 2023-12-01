@@ -4,6 +4,7 @@ from transformers import AutoTokenizer
 import torch.nn.functional as F 
 import torch
 import pandas as pd
+import numpy as np
 from math import sqrt
 model_ckpt = "bert-base-uncased"
 config = AutoConfig.from_pretrained(model_ckpt)
@@ -232,13 +233,17 @@ class TransformerEmbeddings():
                 print("epoch %s" % (epoch+1))
             self.model.forward(tensorData)
     
-    def getEmbeddings(self,q):
-        self.model.eval()
-        inputs = self.getTensor(q)
+    def getEmbeddings(self,qs):
         with torch.no_grad():
+            self.model.eval()
             #CHANGE THIS
-            x = self.model(inputs).cpu().detach().numpy()
-            return x
+            values = []
+            for q in qs:
+                input = self.getTensor(q)
+                x = self.model(input).cpu().detach().numpy()
+                values.append(x[0])
+            values = np.array(values)
+        return values
         
 # secDataPath = "../../inputs/SEC-CompanyTicker.csv"
 # data = list(pd.read_csv(secDataPath,index_col=0).companyName[:100])
